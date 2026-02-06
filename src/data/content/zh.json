@@ -218,6 +218,18 @@
     "noResults": "未找到结果",
     "previous": "上一页",
     "next": "下一页",
-    "chapter": "章节"
+    "chapter": "章节",
+    "appTitle": "佛罗伦萨旅行指南",
+    "appSubtitle": "您的旅行伴侣",
+    "madeWith": "用心制作",
+    "forFlorenceLovers": "献给佛罗伦萨爱好者",
+    "allRightsReserved": "版权所有",
+    "chapterNotFound": "未找到章节",
+    "chapterNotFoundMessage": "您要查找的章节不存在。",
+    "result": "个结果",
+    "results": "个结果",
+    "tryDifferentKeywords": "请尝试使用不同的关键词搜索",
+    "chapterAbbrev": "第",
+    "searchAllFor": "搜索全部"
   }
 }

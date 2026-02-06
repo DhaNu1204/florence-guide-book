@@ -218,6 +218,18 @@
     "noResults": "لم يتم العثور على نتائج",
     "previous": "السابق",
     "next": "التالي",
-    "chapter": "الفصل"
+    "chapter": "الفصل",
+    "appTitle": "دليل فلورنسا",
+    "appSubtitle": "رفيقك في السفر",
+    "madeWith": "صنع بـ",
+    "forFlorenceLovers": "لعشاق فلورنسا",
+    "allRightsReserved": "جميع الحقوق محفوظة",
+    "chapterNotFound": "الفصل غير موجود",
+    "chapterNotFoundMessage": "الفصل الذي تبحث عنه غير موجود.",
+    "result": "نتيجة",
+    "results": "نتائج",
+    "tryDifferentKeywords": "حاول البحث بكلمات مفتاحية مختلفة",
+    "chapterAbbrev": "ف.",
+    "searchAllFor": "البحث عن الكل"
   }
 }

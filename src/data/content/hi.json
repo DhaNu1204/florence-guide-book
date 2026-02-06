@@ -218,6 +218,18 @@
     "noResults": "कोई परिणाम नहीं मिला",
     "previous": "पिछला",
     "next": "अगला",
-    "chapter": "अध्याय"
+    "chapter": "अध्याय",
+    "appTitle": "फ्लोरेंस गाइडबुक",
+    "appSubtitle": "आपका यात्रा साथी",
+    "madeWith": "बनाया गया",
+    "forFlorenceLovers": "फ्लोरेंस प्रेमियों के लिए",
+    "allRightsReserved": "सर्वाधिकार सुरक्षित",
+    "chapterNotFound": "अध्याय नहीं मिला",
+    "chapterNotFoundMessage": "आप जो अध्याय खोज रहे हैं वह मौजूद नहीं है।",
+    "result": "परिणाम",
+    "results": "परिणाम",
+    "tryDifferentKeywords": "अलग कीवर्ड से खोजने का प्रयास करें",
+    "chapterAbbrev": "अ.",
+    "searchAllFor": "सभी में खोजें"
   }
 }

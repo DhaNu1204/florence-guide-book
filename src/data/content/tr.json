@@ -218,6 +218,18 @@
     "noResults": "Sonuç bulunamadı",
     "previous": "Önceki",
     "next": "Sonraki",
-    "chapter": "Bölüm"
+    "chapter": "Bölüm",
+    "appTitle": "Floransa Rehberi",
+    "appSubtitle": "Seyahat Arkadaşınız",
+    "madeWith": "Yapıldı",
+    "forFlorenceLovers": "Floransa severler için",
+    "allRightsReserved": "Tüm hakları saklıdır",
+    "chapterNotFound": "Bölüm Bulunamadı",
+    "chapterNotFoundMessage": "Aradığınız bölüm mevcut değil.",
+    "result": "sonuç",
+    "results": "sonuç",
+    "tryDifferentKeywords": "Farklı anahtar kelimelerle aramayı deneyin",
+    "chapterAbbrev": "Böl.",
+    "searchAllFor": "Tümünü ara"
   }
 }

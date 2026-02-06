@@ -1,26 +1,7 @@
 import { useLocation, useNavigate } from 'react-router-dom'
-import { 
-  Calendar, 
-  Landmark, 
-  ShoppingBag, 
-  UtensilsCrossed, 
-  Map, 
-  AlertTriangle, 
-  Camera, 
-  Clock 
-} from 'lucide-react'
+import { Calendar } from 'lucide-react'
 import { useLanguage } from '../../hooks/useLanguage'
-
-const iconMap = {
-  'calendar': Calendar,
-  'landmark': Landmark,
-  'shopping-bag': ShoppingBag,
-  'utensils': UtensilsCrossed,
-  'map': Map,
-  'alert-triangle': AlertTriangle,
-  'camera': Camera,
-  'clock': Clock,
-}
+import iconMap from '../../data/iconMap'
 
 export default function Sidebar({ isOpen, onClose }) {
   const { content, isRTL } = useLanguage()

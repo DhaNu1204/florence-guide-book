@@ -218,6 +218,18 @@
     "noResults": "No se encontraron resultados",
     "previous": "Anterior",
     "next": "Siguiente",
-    "chapter": "Capítulo"
+    "chapter": "Capítulo",
+    "appTitle": "Guía de Florencia",
+    "appSubtitle": "Tu Compañero de Viaje",
+    "madeWith": "Hecho con",
+    "forFlorenceLovers": "para los amantes de Florencia",
+    "allRightsReserved": "Todos los derechos reservados",
+    "chapterNotFound": "Capítulo No Encontrado",
+    "chapterNotFoundMessage": "El capítulo que buscas no existe.",
+    "result": "resultado",
+    "results": "resultados",
+    "tryDifferentKeywords": "Intenta buscar con diferentes palabras clave",
+    "chapterAbbrev": "Cap.",
+    "searchAllFor": "Buscar todo por"
   }
 }

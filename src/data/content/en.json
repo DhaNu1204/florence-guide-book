@@ -218,6 +218,18 @@
     "noResults": "No results found",
     "previous": "Previous",
     "next": "Next",
-    "chapter": "Chapter"
+    "chapter": "Chapter",
+    "appTitle": "Florence Guidebook",
+    "appSubtitle": "Your Travel Companion",
+    "madeWith": "Made with",
+    "forFlorenceLovers": "for Florence lovers",
+    "allRightsReserved": "All rights reserved",
+    "chapterNotFound": "Chapter Not Found",
+    "chapterNotFoundMessage": "The chapter you're looking for doesn't exist.",
+    "result": "result",
+    "results": "results",
+    "tryDifferentKeywords": "Try searching with different keywords",
+    "chapterAbbrev": "Ch.",
+    "searchAllFor": "Search all for"
   }
 }

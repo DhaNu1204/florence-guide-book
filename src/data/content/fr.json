@@ -218,6 +218,18 @@
     "noResults": "Aucun résultat trouvé",
     "previous": "Précédent",
     "next": "Suivant",
-    "chapter": "Chapitre"
+    "chapter": "Chapitre",
+    "appTitle": "Guide de Florence",
+    "appSubtitle": "Votre Compagnon de Voyage",
+    "madeWith": "Fait avec",
+    "forFlorenceLovers": "pour les amoureux de Florence",
+    "allRightsReserved": "Tous droits réservés",
+    "chapterNotFound": "Chapitre Non Trouvé",
+    "chapterNotFoundMessage": "Le chapitre que vous recherchez n'existe pas.",
+    "result": "résultat",
+    "results": "résultats",
+    "tryDifferentKeywords": "Essayez de chercher avec des mots-clés différents",
+    "chapterAbbrev": "Ch.",
+    "searchAllFor": "Rechercher tout pour"
   }
 }

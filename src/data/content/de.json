@@ -218,6 +218,18 @@
     "noResults": "Keine Ergebnisse gefunden",
     "previous": "Zurück",
     "next": "Weiter",
-    "chapter": "Kapitel"
+    "chapter": "Kapitel",
+    "appTitle": "Florenz Reiseführer",
+    "appSubtitle": "Ihr Reisebegleiter",
+    "madeWith": "Gemacht mit",
+    "forFlorenceLovers": "für Florenz-Liebhaber",
+    "allRightsReserved": "Alle Rechte vorbehalten",
+    "chapterNotFound": "Kapitel Nicht Gefunden",
+    "chapterNotFoundMessage": "Das gesuchte Kapitel existiert nicht.",
+    "result": "Ergebnis",
+    "results": "Ergebnisse",
+    "tryDifferentKeywords": "Versuchen Sie es mit anderen Suchbegriffen",
+    "chapterAbbrev": "Kap.",
+    "searchAllFor": "Alles suchen nach"
   }
 }

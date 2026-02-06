@@ -218,6 +218,18 @@
     "noResults": "Inga resultat hittades",
     "previous": "Föregående",
     "next": "Nästa",
-    "chapter": "Kapitel"
+    "chapter": "Kapitel",
+    "appTitle": "Florens Guidebok",
+    "appSubtitle": "Din Reseföljare",
+    "madeWith": "Gjord med",
+    "forFlorenceLovers": "för Florens-älskare",
+    "allRightsReserved": "Alla rättigheter förbehållna",
+    "chapterNotFound": "Kapitel Hittades Inte",
+    "chapterNotFoundMessage": "Kapitlet du letar efter finns inte.",
+    "result": "resultat",
+    "results": "resultat",
+    "tryDifferentKeywords": "Prova att söka med andra sökord",
+    "chapterAbbrev": "Kap.",
+    "searchAllFor": "Sök allt efter"
   }
 }

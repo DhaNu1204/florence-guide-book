@@ -218,6 +218,18 @@
     "noResults": "Nie znaleziono wyników",
     "previous": "Poprzedni",
     "next": "Następny",
-    "chapter": "Rozdział"
+    "chapter": "Rozdział",
+    "appTitle": "Przewodnik po Florencji",
+    "appSubtitle": "Twój Towarzysz Podróży",
+    "madeWith": "Zrobiono z",
+    "forFlorenceLovers": "dla miłośników Florencji",
+    "allRightsReserved": "Wszelkie prawa zastrzeżone",
+    "chapterNotFound": "Rozdział Nie Znaleziony",
+    "chapterNotFoundMessage": "Szukany rozdział nie istnieje.",
+    "result": "wynik",
+    "results": "wyników",
+    "tryDifferentKeywords": "Spróbuj wyszukać innymi słowami kluczowymi",
+    "chapterAbbrev": "Rozdz.",
+    "searchAllFor": "Szukaj wszystkiego"
   }
 }

@@ -3,78 +3,32 @@ import { Search, X, ChevronRight } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
 import { useLanguage } from '../../hooks/useLanguage'
 import { useSearch } from '../../hooks/useSearch'
-import Fuse from 'fuse.js'
 
 export default function SearchBar({ onSearch }) {
   const [query, setQuery] = useState('')
   const [showSuggestions, setShowSuggestions] = useState(false)
-  const [suggestions, setSuggestions] = useState([])
   const [selectedIndex, setSelectedIndex] = useState(-1)
   const { content } = useLanguage()
-  const { search } = useSearch()
+  const { search, getSuggestions } = useSearch()
   const navigate = useNavigate()
   const inputRef = useRef(null)
   const suggestionsRef = useRef(null)
 
-  // Create searchable items from content for suggestions
-  const searchableItems = useMemo(() => {
-    if (!content?.chapters) return []
-    
-    const items = []
-    content.chapters.forEach((chapter) => {
-      // Add chapter as searchable item
-      items.push({
-        type: 'chapter',
-        chapterId: chapter.id,
-        chapterNumber: chapter.number,
-        title: chapter.title,
-        sectionId: null,
-        sectionTitle: null,
-      })
-      
-      chapter.sections?.forEach((section) => {
-        // Add section as searchable item
-        items.push({
-          type: 'section',
-          chapterId: chapter.id,
-          chapterNumber: chapter.number,
-          chapterTitle: chapter.title,
-          sectionId: section.id,
-          title: section.title,
-          content: section.content?.replace(/<[^>]*>/g, '') || '',
-        })
-      })
-    })
-    return items
-  }, [content])
+  // Derive suggestions from query (no effect needed)
+  const suggestions = useMemo(() => {
+    if (query.trim().length < 1) return []
+    return getSuggestions(query, 8)
+  }, [query, getSuggestions])
 
-  // Initialize Fuse.js for suggestions
-  const fuse = useMemo(() => {
-    return new Fuse(searchableItems, {
-      keys: [
-        { name: 'title', weight: 0.5 },
-        { name: 'chapterTitle', weight: 0.2 },
-        { name: 'content', weight: 0.3 },
-      ],
-      threshold: 0.4,
-      includeMatches: true,
-      minMatchCharLength: 1,
-    })
-  }, [searchableItems])
-
-  // Update suggestions when query changes
-  useEffect(() => {
-    if (query.trim().length < 1) {
-      setSuggestions([])
-      setShowSuggestions(false)
-      return
-    }
-
-    const results = fuse.search(query).slice(0, 8) // Limit to 8 suggestions
-    setSuggestions(results.map(r => r.item))
-    setShowSuggestions(results.length > 0)
+  const handleQueryChange = (value) => {
+    setQuery(value)
     setSelectedIndex(-1)
-  }, [query, fuse])
+    if (value.trim().length >= 1) {
+      setShowSuggestions(true)
+    } else {
+      setShowSuggestions(false)
+    }
+  }
 
   // Close suggestions when clicking outside
   useEffect(() => {
@@ -139,7 +93,6 @@ export default function SearchBar({ onSearch }) {
 
   const handleClear = () => {
     setQuery('')
-    setSuggestions([])
     setShowSuggestions(false)
     inputRef.current?.focus()
   }
@@ -174,7 +127,7 @@ export default function SearchBar({ onSearch }) {
           ref={inputRef}
           type="text"
           value={query}
-          onChange={(e) => setQuery(e.target.value)}
+          onChange={(e) => handleQueryChange(e.target.value)}
           onKeyDown={handleKeyDown}
           onFocus={handleFocus}
           placeholder={content?.ui?.search || 'Search...'}
@@ -210,7 +163,7 @@ export default function SearchBar({ onSearch }) {
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2">
                   <span className="text-xs font-medium text-primary-600 bg-primary-100 px-2 py-0.5 rounded">
-                    {suggestion.type === 'chapter' ? 'Chapter' : `Ch. ${suggestion.chapterNumber}`}
+                    {suggestion.type === 'chapter' ? (content?.ui?.chapter || 'Chapter') : `${content?.ui?.chapterAbbrev || 'Ch.'} ${suggestion.chapterNumber}`}
                   </span>
                   <span className="text-sm font-medium text-gray-900 truncate">
                     {highlightMatch(suggestion.title, query)}
@@ -232,7 +185,7 @@ export default function SearchBar({ onSearch }) {
             className="w-full px-4 py-3 text-left bg-gray-50 hover:bg-gray-100 transition-colors text-sm text-primary-600 font-medium flex items-center gap-2"
           >
             <Search className="w-4 h-4" />
-            Search all for "{query}"
+            {content?.ui?.searchAllFor || 'Search all for'} &ldquo;{query}&rdquo;
           </button>
         </div>
       )}

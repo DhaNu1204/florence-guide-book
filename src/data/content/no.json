@@ -218,6 +218,18 @@
     "noResults": "Ingen resultater funnet",
     "previous": "Forrige",
     "next": "Neste",
-    "chapter": "Kapittel"
+    "chapter": "Kapittel",
+    "appTitle": "Firenze Guidebok",
+    "appSubtitle": "Din Reisefølge",
+    "madeWith": "Laget med",
+    "forFlorenceLovers": "for Firenze-elskere",
+    "allRightsReserved": "Alle rettigheter forbeholdt",
+    "chapterNotFound": "Kapittel Ikke Funnet",
+    "chapterNotFoundMessage": "Kapittelet du leter etter finnes ikke.",
+    "result": "resultat",
+    "results": "resultater",
+    "tryDifferentKeywords": "Prøv å søke med andre søkeord",
+    "chapterAbbrev": "Kap.",
+    "searchAllFor": "Søk alt etter"
   }
 }

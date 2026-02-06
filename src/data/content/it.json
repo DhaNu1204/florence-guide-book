@@ -218,6 +218,18 @@
     "noResults": "Nessun risultato trovato",
     "previous": "Precedente",
     "next": "Successivo",
-    "chapter": "Capitolo"
+    "chapter": "Capitolo",
+    "appTitle": "Guida di Firenze",
+    "appSubtitle": "Il Tuo Compagno di Viaggio",
+    "madeWith": "Fatto con",
+    "forFlorenceLovers": "per gli amanti di Firenze",
+    "allRightsReserved": "Tutti i diritti riservati",
+    "chapterNotFound": "Capitolo Non Trovato",
+    "chapterNotFoundMessage": "Il capitolo che stai cercando non esiste.",
+    "result": "risultato",
+    "results": "risultati",
+    "tryDifferentKeywords": "Prova a cercare con parole chiave diverse",
+    "chapterAbbrev": "Cap.",
+    "searchAllFor": "Cerca tutto per"
   }
 }

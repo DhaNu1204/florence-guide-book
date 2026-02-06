@@ -1,28 +1,9 @@
-import { useParams } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import { useLanguage } from '../../hooks/useLanguage'
 import SectionContent from './SectionContent'
 import Loading from '../common/Loading'
-import { 
-  Calendar, 
-  Landmark, 
-  ShoppingBag, 
-  UtensilsCrossed, 
-  Map, 
-  AlertTriangle, 
-  Camera, 
-  Clock 
-} from 'lucide-react'
-
-const iconMap = {
-  'calendar': Calendar,
-  'landmark': Landmark,
-  'shopping-bag': ShoppingBag,
-  'utensils': UtensilsCrossed,
-  'map': Map,
-  'alert-triangle': AlertTriangle,
-  'camera': Camera,
-  'clock': Clock,
-}
+import { Calendar } from 'lucide-react'
+import iconMap from '../../data/iconMap'
 
 export default function ChapterView() {
   const { chapterId } = useParams()
@@ -38,8 +19,8 @@ export default function ChapterView() {
     return (
       <div className="card text-center py-12">
         <div className="text-6xl mb-4">🔍</div>
-        <h2 className="text-2xl font-bold text-gray-800 mb-2">Chapter Not Found</h2>
-        <p className="text-gray-600">The chapter you're looking for doesn't exist.</p>
+        <h2 className="text-2xl font-bold text-gray-800 mb-2">{content?.ui?.chapterNotFound || 'Chapter Not Found'}</h2>
+        <p className="text-gray-600">{content?.ui?.chapterNotFoundMessage || "The chapter you're looking for doesn't exist."}</p>
       </div>
     )
   }
@@ -56,7 +37,7 @@ export default function ChapterView() {
           </div>
           <div>
             <span className="inline-block px-3 py-1 bg-primary-100 text-primary-700 text-sm font-medium rounded-full mb-2">
-              Chapter {chapter.number}
+              {content?.ui?.chapter || 'Chapter'} {chapter.number}
             </span>
             <h1 className="text-3xl font-bold text-gray-900">{chapter.title}</h1>
           </div>
@@ -71,12 +52,12 @@ export default function ChapterView() {
       </div>
 
       {/* Chapter Navigation */}
-      <ChapterNavigation currentChapter={chapter} chapters={content.chapters} />
+      <ChapterNavigation currentChapter={chapter} chapters={content.chapters} content={content} />
     </article>
   )
 }
 
-function ChapterNavigation({ currentChapter, chapters }) {
+function ChapterNavigation({ currentChapter, chapters, content }) {
   const currentIndex = chapters.findIndex(ch => ch.id === currentChapter.id)
   const prevChapter = chapters[currentIndex - 1]
   const nextChapter = chapters[currentIndex + 1]
@@ -84,31 +65,31 @@ function ChapterNavigation({ currentChapter, chapters }) {
   return (
     <nav className="flex justify-between items-center pt-8 border-t border-gray-200">
       {prevChapter ? (
-        <a
-          href={`/chapter/${prevChapter.id}`}
+        <Link
+          to={`/chapter/${prevChapter.id}`}
           className="flex items-center gap-2 text-primary-600 hover:text-primary-700 transition-colors"
         >
           <span>←</span>
           <div className="text-left">
-            <span className="text-sm text-gray-500 block">Previous</span>
+            <span className="text-sm text-gray-500 block">{content?.ui?.previous || 'Previous'}</span>
             <span className="font-medium">{prevChapter.title}</span>
           </div>
-        </a>
+        </Link>
       ) : (
         <div />
       )}
-      
+
       {nextChapter ? (
-        <a
-          href={`/chapter/${nextChapter.id}`}
+        <Link
+          to={`/chapter/${nextChapter.id}`}
           className="flex items-center gap-2 text-primary-600 hover:text-primary-700 transition-colors text-right"
         >
           <div>
-            <span className="text-sm text-gray-500 block">Next</span>
+            <span className="text-sm text-gray-500 block">{content?.ui?.next || 'Next'}</span>
             <span className="font-medium">{nextChapter.title}</span>
           </div>
           <span>→</span>
-        </a>
+        </Link>
       ) : (
         <div />
       )}

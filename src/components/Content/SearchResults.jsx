@@ -47,7 +47,7 @@ export default function SearchResults() {
               {content?.ui?.searchResults || 'Search Results'}
             </h1>
             <p className="text-gray-600">
-              {searchResults.length} {searchResults.length === 1 ? 'result' : 'results'} for "{query}"
+              {searchResults.length} {searchResults.length === 1 ? (content?.ui?.result || 'result') : (content?.ui?.results || 'results')} for &ldquo;{query}&rdquo;
             </p>
           </div>
         </div>
@@ -66,7 +66,7 @@ export default function SearchResults() {
                 <div className="flex-1">
                   <div className="flex items-center gap-2 mb-2">
                     <span className="px-2 py-1 bg-primary-100 text-primary-700 text-xs font-medium rounded">
-                      Chapter {result.chapterNumber}
+                      {content?.ui?.chapter || 'Chapter'} {result.chapterNumber}
                     </span>
                     <span className="text-gray-400">•</span>
                     <span className="text-sm text-gray-600">{result.chapterTitle}</span>
@@ -94,7 +94,7 @@ export default function SearchResults() {
             {content?.ui?.noResults || 'No results found'}
           </h2>
           <p className="text-gray-600">
-            Try searching with different keywords
+            {content?.ui?.tryDifferentKeywords || 'Try searching with different keywords'}
           </p>
         </div>
       ) : null}

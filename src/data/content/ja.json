@@ -218,6 +218,18 @@
     "noResults": "結果が見つかりません",
     "previous": "前へ",
     "next": "次へ",
-    "chapter": "章"
+    "chapter": "章",
+    "appTitle": "フィレンツェガイドブック",
+    "appSubtitle": "あなたの旅のお供に",
+    "madeWith": "愛を込めて",
+    "forFlorenceLovers": "フィレンツェ愛好家のために",
+    "allRightsReserved": "全著作権所有",
+    "chapterNotFound": "章が見つかりません",
+    "chapterNotFoundMessage": "お探しの章は存在しません。",
+    "result": "件の結果",
+    "results": "件の結果",
+    "tryDifferentKeywords": "別のキーワードで検索してみてください",
+    "chapterAbbrev": "第",
+    "searchAllFor": "すべてを検索"
   }
 }

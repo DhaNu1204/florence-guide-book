@@ -32,8 +32,8 @@ export default function Header({ onMenuClick }) {
                 <span className="text-2xl">🏛️</span>
               </div>
               <div className="hidden sm:block">
-                <h1 className="text-xl font-bold">Florence Guidebook</h1>
-                <p className="text-xs text-primary-200">Your Travel Companion</p>
+                <h1 className="text-xl font-bold">{content?.ui?.appTitle || 'Florence Guidebook'}</h1>
+                <p className="text-xs text-primary-200">{content?.ui?.appSubtitle || 'Your Travel Companion'}</p>
               </div>
             </div>
           </div>

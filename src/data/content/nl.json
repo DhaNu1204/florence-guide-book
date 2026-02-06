@@ -218,6 +218,18 @@
     "noResults": "Geen resultaten gevonden",
     "previous": "Vorige",
     "next": "Volgende",
-    "chapter": "Hoofdstuk"
+    "chapter": "Hoofdstuk",
+    "appTitle": "Florence Reisgids",
+    "appSubtitle": "Uw Reisgenoot",
+    "madeWith": "Gemaakt met",
+    "forFlorenceLovers": "voor Florence-liefhebbers",
+    "allRightsReserved": "Alle rechten voorbehouden",
+    "chapterNotFound": "Hoofdstuk Niet Gevonden",
+    "chapterNotFoundMessage": "Het hoofdstuk dat u zoekt bestaat niet.",
+    "result": "resultaat",
+    "results": "resultaten",
+    "tryDifferentKeywords": "Probeer te zoeken met andere zoekwoorden",
+    "chapterAbbrev": "Hfst.",
+    "searchAllFor": "Zoek alles naar"
   }
 }

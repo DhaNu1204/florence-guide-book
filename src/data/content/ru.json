@@ -218,6 +218,18 @@
     "noResults": "Результаты не найдены",
     "previous": "Назад",
     "next": "Далее",
-    "chapter": "Глава"
+    "chapter": "Глава",
+    "appTitle": "Путеводитель по Флоренции",
+    "appSubtitle": "Ваш Спутник в Путешествии",
+    "madeWith": "Сделано с",
+    "forFlorenceLovers": "для любителей Флоренции",
+    "allRightsReserved": "Все права защищены",
+    "chapterNotFound": "Глава Не Найдена",
+    "chapterNotFoundMessage": "Глава, которую вы ищете, не существует.",
+    "result": "результат",
+    "results": "результатов",
+    "tryDifferentKeywords": "Попробуйте искать по другим ключевым словам",
+    "chapterAbbrev": "Гл.",
+    "searchAllFor": "Искать всё по"
   }
 }
