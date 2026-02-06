@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "ko",
+    "languageName": "한국어",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "여행 계획하기",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "방문 최적기",
+          "content": "<p>피렌체는 일년 내내 아름답지만, 방문하기 가장 좋은 시기는 봄(4월~6월)과 가을(9월~10월)입니다. 이 기간에는 쾌적한 날씨와 적은 인파를 즐길 수 있습니다.</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "가는 방법",
+          "content": "<p>피렌체는 항공, 기차, 자동차로 잘 연결되어 있습니다:</p><ul><li><strong>항공:</strong> 피렌체 공항(FLR)은 시내 중심에서 4km 거리입니다.</li><li><strong>기차:</strong> 산타 마리아 노벨라 역이 주요 허브입니다.</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "숙소",
+          "content": "<p>피렌체는 모든 예산에 맞는 숙소를 제공합니다:</p><ul><li><strong>역사 지구:</strong> 처음 방문하는 분들에게 이상적입니다.</li><li><strong>올트라르노:</strong> 현지 분위기가 있는 장인 지구입니다.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "피렌체의 무료 명소",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "두오모 광장",
+          "content": "<p>피렌체의 심장부인 이 웅장한 광장에는 브루넬레스키의 유명한 돔이 있는 산타 마리아 델 피오레 대성당이 있습니다.</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "미켈란젤로 광장",
+          "content": "<p>피렌체의 최고의 파노라마 전망을 위해 이 언덕 위 광장으로 가세요. 일몰 전망은 정말 숨막히게 아름답고 완전 무료입니다.</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "베키오 다리",
+          "content": "<p>중세 시대로 거슬러 올라가는 피렌체에서 가장 오래된 다리로, 보석상들이 줄지어 있고 아르노 강의 멋진 전망을 제공합니다.</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "산 로렌초 시장 지역",
+          "content": "<p>산 로렌초 대성당 주변의 활기찬 야외 시장을 탐험하세요. 가죽 제품, 기념품, 현지 공예품을 찾아보세요.</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "현지인처럼 쇼핑하기",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "중앙 시장",
+          "content": "<p>이 역사적인 실내 시장은 신선한 농산물, 고기, 치즈, 현지 특산품이 있는 미식가의 천국입니다.</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "올트라르노 장인 공방",
+          "content": "<p>아르노 강을 건너 전통 장인들의 작업을 발견하세요. 수제 가죽 제품과 금 보석을 찾아보세요.</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "토르나부오니 거리",
+          "content": "<p>피렌체에서 가장 우아한 쇼핑 거리로 명품 브랜드와 이탈리아 패션 하우스가 있습니다.</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "산탐브로지오 시장",
+          "content": "<p>관광객 인파에서 벗어난 현지인들이 사랑하는 곳으로, 현지 가격으로 신선한 농산물을 제공합니다.</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "피렌체인들의 식사 장소",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "전통 피렌체 요리",
+          "content": "<p>피렌체 요리는 푸짐하고 맛있습니다:</p><ul><li><strong>비스테카 알라 피오렌티나:</strong> 유명한 T본 스테이크</li><li><strong>리볼리타:</strong> 푸짐한 빵과 야채 수프</li><li><strong>람프레도토:</strong> 전통 길거리 음식</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "식사하기 좋은 지역",
+          "content": "<p>진정한 경험을 위해 관광 중심지를 벗어나세요:</p><ul><li><strong>산토 스피리토:</strong> 보헤미안 분위기와 훌륭한 트라토리아</li><li><strong>산 프레디아노:</strong> 현지인들이 좋아하는 곳과 와인 바</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "와인과 아페리티보",
+          "content": "<p>토스카나는 와인의 나라입니다. 키안티 클라시코와 아페리티보 시간(18~20시)을 놓치지 마세요.</p>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "피렌체에서 당일치기 여행",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "토스카나 언덕 마을",
+          "content": "<p>토스카나 시골에는 중세 언덕 마을이 점점이 있습니다:</p><ul><li><strong>산 지미냐노:</strong> 중세 탑으로 유명</li><li><strong>시에나:</strong> 멋진 고딕 건축</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "키안티 와인 지역",
+          "content": "<p>구불구불한 언덕, 포도밭, 올리브 과수원이 기다리고 있습니다. 와이너리를 방문해 시음을 즐기세요.</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "피사와 루카",
+          "content": "<p><strong>피사:</strong> 아름다운 미라콜리 광장을 탐험하세요.</p><p><strong>루카:</strong> 르네상스 성벽을 걷거나 자전거를 타세요.</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "친퀘테레",
+          "content": "<p>리구리아 해안의 다섯 개의 다채로운 어촌 마을은 당일치기 여행에 완벽합니다.</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "피해야 할 실수",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "관광객 함정",
+          "content": "<p>이런 흔한 실수를 피하세요:</p><ul><li>주요 명소 바로 옆 레스토랑에서 식사하기</li><li>박물관을 미리 예약하지 않기</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "문화적 실수",
+          "content": "<p>현지 관습을 존중하세요:</p><ul><li>교회에서 적절한 복장 착용</li><li>기본 이탈리아어 배우기</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "시간 실수",
+          "content": "<p>이탈리아 일정에 맞춰 계획하세요:</p><ul><li>많은 상점이 점심시간에 문을 닫음 (13~15:30)</li><li>레스토랑은 19:30 전에 저녁 식사를 제공하지 않음</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "피렌체에서 볼 것",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "필수 박물관",
+          "content": "<p>피렌체의 세계적 수준의 박물관은 사전 예약이 필요합니다:</p><ul><li><strong>우피치 미술관:</strong> 르네상스 걸작</li><li><strong>아카데미아 미술관:</strong> 미켈란젤로의 다비드상</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "역사적인 교회",
+          "content": "<p>피렌체의 교회는 건축의 보물입니다:</p><ul><li><strong>산타 마리아 델 피오레(두오모):</strong> 상징적인 돔</li><li><strong>산타 크로체:</strong> 미켈란젤로의 안식처</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "궁전과 정원",
+          "content": "<p>피렌체의 웅장함을 경험하세요:</p><ul><li><strong>베키오 궁전:</strong> 르네상스 홀이 있는 시청</li><li><strong>보볼리 정원:</strong> 광대한 르네상스 정원</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "피렌체 48시간",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "1일차: 오전",
+          "content": "<p><strong>아카데미아 미술관</strong>에서 일찍 시작해 미켈란젤로의 다비드상을 감상하세요. 그런 다음 <strong>두오모</strong>로 걸어가 브루넬레스키의 돔에 올라가세요.</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "1일차: 오후와 저녁",
+          "content": "<p>오후는 <strong>우피치 미술관</strong>에서 보내세요. 골든 아워에 <strong>베키오 다리</strong>를 건너세요. <strong>산토 스피리토</strong>에서 저녁 식사.</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "2일차: 오전",
+          "content": "<p><strong>올트라르노</strong> 지역을 탐험하세요. 장인 공방과 <strong>피티 궁전</strong>, <strong>보볼리 정원</strong>을 방문하세요.</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "2일차: 오후와 저녁",
+          "content": "<p><strong>산타 크로체</strong> 교회를 방문하세요. <strong>미켈란젤로 광장</strong>에서 일몰을 보며 여행을 마무리하세요. 키안티 한 잔으로 피렌체에 건배!</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "검색...",
+    "menu": "메뉴",
+    "selectLanguage": "언어 선택",
+    "searchResults": "검색 결과",
+    "noResults": "결과를 찾을 수 없습니다",
+    "previous": "이전",
+    "next": "다음",
+    "chapter": "장"
+  }
+}

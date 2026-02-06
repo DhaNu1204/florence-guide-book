@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "it",
+    "languageName": "Italiano",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "Pianificare la Visita",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "Periodo Migliore per Visitare",
+          "content": "<p>Firenze è bella tutto l'anno, ma i periodi migliori per visitarla sono la primavera (aprile-giugno) e l'autunno (settembre-ottobre). Durante questi periodi, godrai di un clima piacevole, meno folla e la città al suo massimo splendore.</p><p>I mesi estivi (luglio-agosto) possono essere caldi e affollati di turisti, mentre l'inverno offre un'esperienza più tranquilla con piogge occasionali.</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "Come Arrivare",
+          "content": "<p>Firenze è ben collegata via aria, ferrovia e strada:</p><ul><li><strong>In Aereo:</strong> L'Aeroporto di Firenze (FLR) dista 4km dal centro città. L'Aeroporto di Pisa (PSA) è a circa 80km con collegamenti ferroviari regolari.</li><li><strong>In Treno:</strong> La stazione di Santa Maria Novella è il principale snodo, con treni ad alta velocità da Roma (1,5 ore) e Milano (2 ore).</li><li><strong>In Auto:</strong> L'autostrada A1 collega Firenze alle principali città italiane.</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "Dove Alloggiare",
+          "content": "<p>Firenze offre sistemazioni per ogni budget:</p><ul><li><strong>Centro Storico:</strong> Ideale per chi visita per la prima volta, a pochi passi dalle principali attrazioni.</li><li><strong>Oltrarno:</strong> Quartiere artigianale con atmosfera locale, ottimi ristoranti.</li><li><strong>San Lorenzo:</strong> Vicino al mercato centrale, opzioni economiche.</li><li><strong>Santa Croce:</strong> Vivace vita notturna, autentica atmosfera fiorentina.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "I Luoghi Gratuiti Più Belli di Firenze",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "Piazza del Duomo",
+          "content": "<p>Il cuore di Firenze, questa magnifica piazza ospita l'iconica Cattedrale di Santa Maria del Fiore con la famosa cupola del Brunelleschi. Mentre l'ingresso alla cattedrale è gratuito, salire sulla cupola richiede un biglietto.</p><p>Non perdere le splendide porte del Battistero, conosciute come le \"Porte del Paradiso\".</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "Piazzale Michelangelo",
+          "content": "<p>Per le migliori viste panoramiche di Firenze, dirigiti verso questa piazza in collina. Le viste al tramonto sulla città sono assolutamente mozzafiato e completamente gratuite. Porta un picnic e goditi l'atmosfera romantica.</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "Ponte Vecchio",
+          "content": "<p>Il ponte più antico di Firenze, risalente al medioevo, è fiancheggiato da gioiellerie e offre splendide viste sul fiume Arno. Attraversarlo è gratuito ed è un'esperienza imperdibile.</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "Area del Mercato di San Lorenzo",
+          "content": "<p>Esplora il vivace mercato all'aperto intorno alla Basilica di San Lorenzo. Sfoglia articoli in pelle, souvenir e artigianato locale. L'atmosfera del mercato è quintessenzialmente fiorentina.</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "Dove Fare Shopping Come un Locale",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "Mercato Centrale",
+          "content": "<p>Questo storico mercato coperto è un paradiso per gli amanti del cibo. Il piano terra presenta prodotti freschi, carni, formaggi e specialità locali. Il piano superiore ha una moderna food court con venditori artigianali.</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "Botteghe Artigiane dell'Oltrarno",
+          "content": "<p>Attraversa l'Arno per scoprire artigiani tradizionali al lavoro. Trova articoli in pelle fatti a mano, antiquariato restaurato, gioielli in oro e prodotti in carta realizzati con tecniche secolari.</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "Via de' Tornabuoni",
+          "content": "<p>La via dello shopping più elegante di Firenze presenta marchi di lusso e case di moda italiane di alta gamma. Anche se stai solo guardando le vetrine, l'architettura e l'atmosfera valgono l'esperienza.</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "Mercato di Sant'Ambrogio",
+          "content": "<p>Un favorito locale lontano dalla folla turistica. Questo mercato giornaliero offre prodotti freschi, fiori e articoli per la casa a prezzi locali. Le strade circostanti hanno eccellenti trattorie.</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "Dove Mangiano i Fiorentini",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "Cucina Tradizionale Fiorentina",
+          "content": "<p>La cucina fiorentina è sostanziosa e saporita. Piatti da provare assolutamente:</p><ul><li><strong>Bistecca alla Fiorentina:</strong> La famosa costata, grigliata al sangue</li><li><strong>Ribollita:</strong> Sostanziosa zuppa di pane e verdure</li><li><strong>Lampredotto:</strong> Cibo di strada tradizionale (panino con trippa)</li><li><strong>Schiacciata:</strong> Focaccia fiorentina</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "I Migliori Quartieri per Mangiare",
+          "content": "<p>Per esperienze autentiche, avventurati oltre il centro turistico:</p><ul><li><strong>Santo Spirito:</strong> Atmosfera bohémien con eccellenti trattorie</li><li><strong>San Frediano:</strong> Locali preferiti e wine bar</li><li><strong>Sant'Ambrogio:</strong> Cucina fresca dal mercato</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "Vino e Aperitivo",
+          "content": "<p>La Toscana è terra di vino. Da non perdere:</p><ul><li>Chianti Classico dalle colline vicine</li><li>Brunello di Montalcino per occasioni speciali</li><li>L'ora dell'aperitivo (18-20) con stuzzichini inclusi</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "Gite di un Giorno da Firenze",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "Borghi Collinari Toscani",
+          "content": "<p>La campagna toscana è costellata di borghi medievali:</p><ul><li><strong>San Gimignano:</strong> Famosa per le sue torri medievali (1 ora)</li><li><strong>Siena:</strong> Splendida architettura gotica e il Palio (1,5 ore)</li><li><strong>Volterra:</strong> Storia etrusca e artigianato dell'alabastro (1,5 ore)</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "Regione Vinicola del Chianti",
+          "content": "<p>Colline ondulate, vigneti e oliveti ti aspettano. Visita cantine per degustazioni, esplora incantevoli villaggi come Greve e Panzano, e goditi lunghi pranzi nei ristoranti di campagna.</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "Pisa e Lucca",
+          "content": "<p><strong>Pisa:</strong> Oltre la Torre Pendente, esplora la bellissima Piazza dei Miracoli (1 ora in treno).</p><p><strong>Lucca:</strong> Cammina o pedala sulle mura rinascimentali di questa affascinante città murata (1,5 ore in treno).</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "Cinque Terre",
+          "content": "<p>Questi cinque colorati villaggi di pescatori sulla costa ligure sono perfetti per una gita di un giorno. Fai trekking tra i villaggi o prendi il treno. Meglio visitarle in bassa stagione (2,5 ore in treno).</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "Errori Comuni da Evitare",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "Trappole per Turisti",
+          "content": "<p>Evita questi errori comuni:</p><ul><li>Mangiare nei ristoranti proprio accanto alle principali attrazioni</li><li>Non prenotare in anticipo i principali musei (Uffizi, Accademia)</li><li>Pagare l'acqua nei ristoranti (chiedi l'acqua del rubinetto)</li><li>Prendere taxi senza confermare che il tassametro sia acceso</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "Errori Culturali",
+          "content": "<p>Rispetta le usanze locali:</p><ul><li>Vestiti appropriatamente per le chiese (spalle e ginocchia coperte)</li><li>Non sederti sui gradini delle chiese per mangiare</li><li>Impara frasi base in italiano - i locali apprezzano lo sforzo</li><li>Il cappuccino è solo una bevanda mattutina</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "Errori di Tempistica",
+          "content": "<p>Pianifica secondo gli orari italiani:</p><ul><li>Molti negozi chiudono per pranzo (13-15:30)</li><li>I ristoranti non servono cena prima delle 19:30</li><li>I musei spesso chiudono il lunedì</li><li>Ad agosto molte attività locali chiudono per ferie</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "Cosa Vedere a Firenze",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "Musei Imperdibili",
+          "content": "<p>I musei di livello mondiale di Firenze richiedono prenotazione anticipata:</p><ul><li><strong>Galleria degli Uffizi:</strong> Capolavori rinascimentali inclusa la Nascita di Venere di Botticelli</li><li><strong>Galleria dell'Accademia:</strong> Casa del David di Michelangelo</li><li><strong>Palazzo Pitti:</strong> Molteplici musei e il Giardino di Boboli</li><li><strong>Bargello:</strong> Museo di scultura con opere di Donatello</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "Chiese Storiche",
+          "content": "<p>Le chiese di Firenze sono tesori architettonici:</p><ul><li><strong>Santa Maria del Fiore (Duomo):</strong> Cupola iconica e interni stupendi</li><li><strong>Santa Croce:</strong> Ultima dimora di Michelangelo e Galileo</li><li><strong>San Lorenzo:</strong> Chiesa della famiglia Medici con la sacrestia di Michelangelo</li><li><strong>Santa Maria Novella:</strong> Bellissimi affreschi e chiostri</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "Palazzi e Giardini",
+          "content": "<p>Vivi la grandezza fiorentina:</p><ul><li><strong>Palazzo Vecchio:</strong> Municipio con sontuose sale rinascimentali</li><li><strong>Giardino di Boboli:</strong> Vasti giardini rinascimentali dietro Palazzo Pitti</li><li><strong>Giardino Bardini:</strong> Meno affollato con splendide viste sulla città</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "Come Trascorrere 48 Ore a Firenze",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "Giorno 1: Mattina",
+          "content": "<p>Inizia presto alla <strong>Galleria dell'Accademia</strong> per vedere il David di Michelangelo prima della folla. Poi cammina fino al <strong>Duomo</strong> e sali sulla cupola del Brunelleschi per viste panoramiche (prenota in anticipo).</p><p>Prendi un pranzo veloce al <strong>Mercato Centrale</strong> - prova il lampredotto o un panino fresco.</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "Giorno 1: Pomeriggio e Sera",
+          "content": "<p>Trascorri il pomeriggio alla <strong>Galleria degli Uffizi</strong> - prevedi almeno 3 ore. Attraversa il <strong>Ponte Vecchio</strong> all'ora dorata per bellissime foto.</p><p>Per cena, dirigiti a <strong>Santo Spirito</strong> per autentica cucina fiorentina e people-watching in piazza.</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "Giorno 2: Mattina",
+          "content": "<p>Esplora il quartiere <strong>Oltrarno</strong>. Visita botteghe artigiane, curiosa tra i negozi di antiquariato e fermati per un caffè in un bar locale.</p><p>Visita <strong>Palazzo Pitti</strong> e passeggia nel <strong>Giardino di Boboli</strong>.</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "Giorno 2: Pomeriggio e Sera",
+          "content": "<p>Visita la chiesa di <strong>Santa Croce</strong> ed esplora il quartiere circostante. Fai shopping di articoli in pelle nella vicina scuola.</p><p>Concludi il viaggio al <strong>Piazzale Michelangelo</strong> per il tramonto sulla città. Brinda a Firenze con un bicchiere di Chianti!</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "Cerca...",
+    "menu": "Menu",
+    "selectLanguage": "Seleziona Lingua",
+    "searchResults": "Risultati della Ricerca",
+    "noResults": "Nessun risultato trovato",
+    "previous": "Precedente",
+    "next": "Successivo",
+    "chapter": "Capitolo"
+  }
+}

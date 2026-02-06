@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "sv",
+    "languageName": "Svenska",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "Planera Ditt Besök",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "Bästa Tiden att Besöka",
+          "content": "<p>Florens är vackert året runt, men de bästa tiderna att besöka är vår (april-juni) och höst (september-oktober). Under dessa perioder njuter du av behagligt väder och färre folkmassor.</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "Hur Man Tar Sig Dit",
+          "content": "<p>Florens är välförbundet med flyg, tåg och bil:</p><ul><li><strong>Med flyg:</strong> Florens flygplats (FLR) ligger 4km från centrum.</li><li><strong>Med tåg:</strong> Santa Maria Novella-stationen är huvudknutpunkten.</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "Var Man Bor",
+          "content": "<p>Florens erbjuder boende för alla budgetar:</p><ul><li><strong>Historiska Centrum:</strong> Perfekt för förstagångsbesökare.</li><li><strong>Oltrarno:</strong> Hantverkskvarter med lokal atmosfär.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "Florens Vackraste Gratis Platser",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "Piazza del Duomo",
+          "content": "<p>Florens hjärta, detta magnifika torg är hem för den ikoniska katedralen Santa Maria del Fiore med Brunelleschis berömda kupol.</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "Piazzale Michelangelo",
+          "content": "<p>För den bästa panoramautsikten över Florens, bege dig till detta torg på kullen. Solnedgångsutsikten är helt fantastisk och helt gratis.</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "Ponte Vecchio",
+          "content": "<p>Florens äldsta bro, från medeltiden, är kantad av juvelerarbutiker och erbjuder fantastisk utsikt över floden Arno.</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "San Lorenzo Marknadsområde",
+          "content": "<p>Utforska den livliga utomhusmarknaden runt San Lorenzo-basilikan. Hitta lädervaror, souvenirer och lokalt hantverk.</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "Shoppa Som en Lokalbo",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "Mercato Centrale",
+          "content": "<p>Denna historiska inomhusmarknad är ett paradis för matälskare med färska produkter, kött, ost och lokala specialiteter.</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "Hantverksverkstäder i Oltrarno",
+          "content": "<p>Korsa Arno för att upptäcka traditionella hantverkare i arbete. Hitta handgjorda lädervaror och guldsmycken.</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "Via de' Tornabuoni",
+          "content": "<p>Florens mest eleganta shoppinggata med lyxmärken och italienska modehus.</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "Sant'Ambrogio Marknad",
+          "content": "<p>En lokal favorit borta från turistmassorna med färska produkter till lokala priser.</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "Var Florentinare Äter",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "Traditionellt Florentinskt Kök",
+          "content": "<p>Det florentinska köket är mättande och smakfullt:</p><ul><li><strong>Bistecca alla Fiorentina:</strong> Den berömda T-bensbiffen</li><li><strong>Ribollita:</strong> Mättande bröd- och grönsakssoppa</li><li><strong>Lampredotto:</strong> Traditionell gatumat</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "Bästa Kvarteren för Mat",
+          "content": "<p>För autentiska upplevelser, våga dig utanför turistcentrum:</p><ul><li><strong>Santo Spirito:</strong> Bohemisk atmosfär med utmärkta trattorier</li><li><strong>San Frediano:</strong> Lokala favoriter och vinbarer</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "Vin och Aperitivo",
+          "content": "<p>Toskana är vinland. Missa inte Chianti Classico och aperitivotimmen (18-20) med gratis tilltugg.</p>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "Dagsutflykter från Florens",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "Toskanska Kullstäder",
+          "content": "<p>Den toskanska landsbygden är full av medeltida kullstäder:</p><ul><li><strong>San Gimignano:</strong> Känt för sina medeltida torn</li><li><strong>Siena:</strong> Fantastisk gotisk arkitektur</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "Chianti Vinregion",
+          "content": "<p>Böljande kullar, vingårdar och olivlundar väntar. Besök vingårdar för provsmakningar.</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "Pisa och Lucca",
+          "content": "<p><strong>Pisa:</strong> Utforska den vackra Piazza dei Miracoli.</p><p><strong>Lucca:</strong> Promenera eller cykla på renässansmurarna.</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "Cinque Terre",
+          "content": "<p>Dessa fem färgglada fiskebyar på den liguriska kusten är perfekta för en dagsutflykt.</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "Vanliga Misstag att Undvika",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "Turistfällor",
+          "content": "<p>Undvik dessa vanliga misstag:</p><ul><li>Äta på restauranger precis bredvid stora attraktioner</li><li>Inte boka museer i förväg</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "Kulturella Tabbar",
+          "content": "<p>Respektera lokala seder:</p><ul><li>Klä dig lämpligt för kyrkor</li><li>Lär dig grundläggande italienska fraser</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "Tidsmisstag",
+          "content": "<p>Planera enligt italienska tider:</p><ul><li>Många butiker stänger för lunch (13-15:30)</li><li>Restauranger serverar inte middag före 19:30</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "Vad Man Ska Se i Florens",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "Museer Man Måste Se",
+          "content": "<p>Florens världsklassmuseer kräver förbokning:</p><ul><li><strong>Uffizi-galleriet:</strong> Renässansmästerverk</li><li><strong>Galleria dell'Accademia:</strong> Hem för Michelangelos David</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "Historiska Kyrkor",
+          "content": "<p>Florens kyrkor är arkitektoniska skatter:</p><ul><li><strong>Santa Maria del Fiore (Duomo):</strong> Ikonisk kupol</li><li><strong>Santa Croce:</strong> Michelangelos sista viloplats</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "Palats och Trädgårdar",
+          "content": "<p>Upplev florentinsk storhet:</p><ul><li><strong>Palazzo Vecchio:</strong> Rådhus med renässanssalar</li><li><strong>Boboliträdgårdarna:</strong> Vidsträckta renässansträdgårdar</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "48 Timmar i Florens",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "Dag 1: Förmiddag",
+          "content": "<p>Börja tidigt på <strong>Galleria dell'Accademia</strong> för att se Michelangelos David. Gå sedan till <strong>Duomo</strong> och bestiga Brunelleschis kupol.</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "Dag 1: Eftermiddag och Kväll",
+          "content": "<p>Tillbringa eftermiddagen på <strong>Uffizi-galleriet</strong>. Korsa <strong>Ponte Vecchio</strong> vid gyllene timmen. Ät middag i <strong>Santo Spirito</strong>.</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "Dag 2: Förmiddag",
+          "content": "<p>Utforska <strong>Oltrarno</strong>-kvarteret. Besök hantverksverkstäder och <strong>Palazzo Pitti</strong> med <strong>Boboliträdgårdarna</strong>.</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "Dag 2: Eftermiddag och Kväll",
+          "content": "<p>Besök <strong>Santa Croce</strong>-kyrkan. Avsluta din resa på <strong>Piazzale Michelangelo</strong> vid solnedgången. Skåla för Florens med ett glas Chianti!</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "Sök...",
+    "menu": "Meny",
+    "selectLanguage": "Välj Språk",
+    "searchResults": "Sökresultat",
+    "noResults": "Inga resultat hittades",
+    "previous": "Föregående",
+    "next": "Nästa",
+    "chapter": "Kapitel"
+  }
+}

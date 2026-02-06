@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "en",
+    "languageName": "English",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "Planning Your Visit",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "Best Time to Visit",
+          "content": "<p>Florence is beautiful year-round, but the best times to visit are during spring (April to June) and fall (September to October). During these periods, you'll enjoy pleasant weather, fewer crowds, and the city at its most charming.</p><p>Summer months (July-August) can be hot and crowded with tourists, while winter offers a quieter experience with occasional rain.</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "Getting There",
+          "content": "<p>Florence is well-connected by air, rail, and road:</p><ul><li><strong>By Air:</strong> Florence Airport (FLR) is 4km from the city center. Pisa Airport (PSA) is about 80km away with regular train connections.</li><li><strong>By Train:</strong> Santa Maria Novella station is the main hub, with high-speed trains from Rome (1.5 hours) and Milan (2 hours).</li><li><strong>By Car:</strong> The A1 motorway connects Florence to major Italian cities.</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "Where to Stay",
+          "content": "<p>Florence offers accommodations for every budget:</p><ul><li><strong>Historic Center:</strong> Best for first-time visitors, walking distance to major attractions.</li><li><strong>Oltrarno:</strong> Artisan neighborhood with a local feel, great restaurants.</li><li><strong>San Lorenzo:</strong> Near the central market, budget-friendly options.</li><li><strong>Santa Croce:</strong> Lively nightlife, authentic Florentine atmosphere.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "Florence's Most Beautiful Free Places",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "Piazza del Duomo",
+          "content": "<p>The heart of Florence, this magnificent square is home to the iconic Cathedral of Santa Maria del Fiore with Brunelleschi's famous dome. While entering the cathedral is free, climbing the dome requires a ticket.</p><p>Don't miss the stunning Baptistery doors, known as the \"Gates of Paradise.\"</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "Piazzale Michelangelo",
+          "content": "<p>For the best panoramic views of Florence, head to this hilltop square. The sunset views over the city are absolutely breathtaking and completely free. Bring a picnic and enjoy the romantic atmosphere.</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "Ponte Vecchio",
+          "content": "<p>Florence's oldest bridge, dating back to medieval times, is lined with jewelry shops and offers stunning views of the Arno River. Walking across is free and a must-do experience.</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "San Lorenzo Market Area",
+          "content": "<p>Explore the bustling outdoor market around the Basilica of San Lorenzo. Browse leather goods, souvenirs, and local crafts. The market atmosphere is quintessentially Florentine.</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "Where to Shop Like a Local",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "Mercato Centrale",
+          "content": "<p>This historic covered market is a food lover's paradise. The ground floor features fresh produce, meats, cheeses, and local specialties. The upper floor has a modern food court with artisan vendors.</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "Oltrarno Artisan Workshops",
+          "content": "<p>Cross the Arno to discover traditional craftsmen at work. Find handmade leather goods, restored antiques, gold jewelry, and paper products made using centuries-old techniques.</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "Via de' Tornabuoni",
+          "content": "<p>Florence's most elegant shopping street features luxury brands and high-end Italian fashion houses. Even if you're just window shopping, the architecture and atmosphere are worth experiencing.</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "Sant'Ambrogio Market",
+          "content": "<p>A local favorite away from tourist crowds. This daily market offers fresh produce, flowers, and household goods at local prices. The surrounding streets have excellent trattorias.</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "Where Florentines Dine",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "Traditional Florentine Cuisine",
+          "content": "<p>Florentine cuisine is hearty and flavorful. Must-try dishes include:</p><ul><li><strong>Bistecca alla Fiorentina:</strong> The famous T-bone steak, grilled rare</li><li><strong>Ribollita:</strong> Hearty bread and vegetable soup</li><li><strong>Lampredotto:</strong> Traditional street food (tripe sandwich)</li><li><strong>Schiacciata:</strong> Florentine flatbread</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "Best Neighborhoods for Dining",
+          "content": "<p>For authentic experiences, venture beyond the tourist center:</p><ul><li><strong>Santo Spirito:</strong> Bohemian atmosphere with excellent trattorias</li><li><strong>San Frediano:</strong> Local favorites and wine bars</li><li><strong>Sant'Ambrogio:</strong> Market-fresh cuisine</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "Wine and Aperitivo",
+          "content": "<p>Tuscany is wine country. Don't miss:</p><ul><li>Chianti Classico from the nearby hills</li><li>Brunello di Montalcino for special occasions</li><li>Aperitivo hour (6-8pm) with complimentary snacks</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "Day Trips from Florence",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "Tuscan Hill Towns",
+          "content": "<p>The Tuscan countryside is dotted with medieval hill towns:</p><ul><li><strong>San Gimignano:</strong> Famous for its medieval towers (1 hour)</li><li><strong>Siena:</strong> Stunning Gothic architecture and the Palio (1.5 hours)</li><li><strong>Volterra:</strong> Etruscan history and alabaster crafts (1.5 hours)</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "Chianti Wine Region",
+          "content": "<p>Rolling hills, vineyards, and olive groves await. Visit wineries for tastings, explore charming villages like Greve and Panzano, and enjoy long lunches at countryside restaurants.</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "Pisa and Lucca",
+          "content": "<p><strong>Pisa:</strong> Beyond the Leaning Tower, explore the beautiful Piazza dei Miracoli (1 hour by train).</p><p><strong>Lucca:</strong> Walk or bike atop the Renaissance walls of this charming walled city (1.5 hours by train).</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "Cinque Terre",
+          "content": "<p>These five colorful fishing villages on the Ligurian coast make for a memorable day trip. Hike between villages or take the train. Best visited in shoulder season (2.5 hours by train).</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "Common Mistakes to Avoid",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "Tourist Traps",
+          "content": "<p>Avoid these common pitfalls:</p><ul><li>Eating at restaurants right next to major attractions</li><li>Not booking major museums in advance (Uffizi, Accademia)</li><li>Paying for water at restaurants (ask for tap water)</li><li>Taking taxis without confirming the meter is running</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "Cultural Faux Pas",
+          "content": "<p>Respect local customs:</p><ul><li>Dress appropriately for churches (covered shoulders and knees)</li><li>Don't sit on church steps to eat</li><li>Learn basic Italian phrases - locals appreciate the effort</li><li>Cappuccino is a morning drink only</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "Timing Mistakes",
+          "content": "<p>Plan around Italian schedules:</p><ul><li>Many shops close for lunch (1-3:30pm)</li><li>Restaurants don't serve dinner before 7:30pm</li><li>Museums often close on Mondays</li><li>August sees many local businesses closed for vacation</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "What to See in Florence",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "Must-See Museums",
+          "content": "<p>Florence's world-class museums require advance booking:</p><ul><li><strong>Uffizi Gallery:</strong> Renaissance masterpieces including Botticelli's Birth of Venus</li><li><strong>Galleria dell'Accademia:</strong> Home to Michelangelo's David</li><li><strong>Palazzo Pitti:</strong> Multiple museums and the Boboli Gardens</li><li><strong>Bargello:</strong> Sculpture museum with works by Donatello</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "Historic Churches",
+          "content": "<p>Florence's churches are architectural treasures:</p><ul><li><strong>Santa Maria del Fiore (Duomo):</strong> Iconic dome and stunning interior</li><li><strong>Santa Croce:</strong> Final resting place of Michelangelo and Galileo</li><li><strong>San Lorenzo:</strong> Medici family church with Michelangelo's sacristy</li><li><strong>Santa Maria Novella:</strong> Beautiful frescoes and cloisters</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "Palaces and Gardens",
+          "content": "<p>Experience Florentine grandeur:</p><ul><li><strong>Palazzo Vecchio:</strong> Town hall with lavish Renaissance rooms</li><li><strong>Boboli Gardens:</strong> Expansive Renaissance gardens behind Palazzo Pitti</li><li><strong>Bardini Gardens:</strong> Less crowded with stunning city views</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "How to Spend 48 Hours in Florence",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "Day 1: Morning",
+          "content": "<p>Start early at the <strong>Galleria dell'Accademia</strong> to see Michelangelo's David before the crowds. Then walk to the <strong>Duomo</strong> and climb Brunelleschi's dome for panoramic views (book in advance).</p><p>Grab a quick lunch at <strong>Mercato Centrale</strong> - try the lampredotto or a fresh panino.</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "Day 1: Afternoon & Evening",
+          "content": "<p>Spend the afternoon at the <strong>Uffizi Gallery</strong> - allow at least 3 hours. Walk across <strong>Ponte Vecchio</strong> at golden hour for beautiful photos.</p><p>For dinner, head to <strong>Santo Spirito</strong> for authentic Florentine cuisine and people-watching in the piazza.</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "Day 2: Morning",
+          "content": "<p>Explore the <strong>Oltrarno</strong> neighborhood. Visit artisan workshops, browse antique shops, and stop for coffee at a local bar.</p><p>Visit <strong>Palazzo Pitti</strong> and stroll through the <strong>Boboli Gardens</strong>.</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "Day 2: Afternoon & Evening",
+          "content": "<p>Visit <strong>Santa Croce</strong> church and explore the surrounding neighborhood. Shop for leather goods at the nearby school.</p><p>End your trip at <strong>Piazzale Michelangelo</strong> for sunset views over the city. Toast to Florence with a glass of Chianti!</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "Search...",
+    "menu": "Menu",
+    "selectLanguage": "Select Language",
+    "searchResults": "Search Results",
+    "noResults": "No results found",
+    "previous": "Previous",
+    "next": "Next",
+    "chapter": "Chapter"
+  }
+}

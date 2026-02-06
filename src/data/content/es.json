@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "es",
+    "languageName": "Español",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "Planificando tu Visita",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "Mejor Época para Visitar",
+          "content": "<p>Florencia es hermosa todo el año, pero las mejores épocas para visitarla son primavera (abril a junio) y otoño (septiembre a octubre). Durante estos períodos, disfrutarás de un clima agradable, menos multitudes y la ciudad en su máximo encanto.</p><p>Los meses de verano (julio-agosto) pueden ser calurosos y llenos de turistas, mientras que el invierno ofrece una experiencia más tranquila con lluvias ocasionales.</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "Cómo Llegar",
+          "content": "<p>Florencia está bien conectada por aire, tren y carretera:</p><ul><li><strong>Por Avión:</strong> El Aeropuerto de Florencia (FLR) está a 4km del centro. El Aeropuerto de Pisa (PSA) está a unos 80km con conexiones regulares de tren.</li><li><strong>Por Tren:</strong> La estación Santa Maria Novella es el centro principal, con trenes de alta velocidad desde Roma (1,5 horas) y Milán (2 horas).</li><li><strong>Por Coche:</strong> La autopista A1 conecta Florencia con las principales ciudades italianas.</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "Dónde Alojarse",
+          "content": "<p>Florencia ofrece alojamientos para todos los presupuestos:</p><ul><li><strong>Centro Histórico:</strong> Ideal para visitantes primerizos, a poca distancia de las principales atracciones.</li><li><strong>Oltrarno:</strong> Barrio artesanal con ambiente local, excelentes restaurantes.</li><li><strong>San Lorenzo:</strong> Cerca del mercado central, opciones económicas.</li><li><strong>Santa Croce:</strong> Animada vida nocturna, auténtica atmósfera florentina.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "Los Lugares Gratuitos Más Hermosos de Florencia",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "Piazza del Duomo",
+          "content": "<p>El corazón de Florencia, esta magnífica plaza alberga la icónica Catedral de Santa María del Fiore con la famosa cúpula de Brunelleschi. Mientras que entrar a la catedral es gratis, subir a la cúpula requiere entrada.</p><p>No te pierdas las impresionantes puertas del Baptisterio, conocidas como las \"Puertas del Paraíso\".</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "Piazzale Michelangelo",
+          "content": "<p>Para las mejores vistas panorámicas de Florencia, dirígete a esta plaza en la colina. Las vistas del atardecer sobre la ciudad son absolutamente impresionantes y completamente gratis. Trae un picnic y disfruta del ambiente romántico.</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "Ponte Vecchio",
+          "content": "<p>El puente más antiguo de Florencia, que data de tiempos medievales, está bordeado de joyerías y ofrece impresionantes vistas del río Arno. Cruzarlo es gratis y una experiencia imprescindible.</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "Área del Mercado de San Lorenzo",
+          "content": "<p>Explora el bullicioso mercado al aire libre alrededor de la Basílica de San Lorenzo. Busca artículos de cuero, souvenirs y artesanías locales. La atmósfera del mercado es quintaesencialmente florentina.</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "Dónde Comprar Como un Local",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "Mercato Centrale",
+          "content": "<p>Este histórico mercado cubierto es un paraíso para los amantes de la comida. La planta baja presenta productos frescos, carnes, quesos y especialidades locales. La planta superior tiene un moderno patio de comidas con vendedores artesanales.</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "Talleres Artesanales del Oltrarno",
+          "content": "<p>Cruza el Arno para descubrir artesanos tradicionales trabajando. Encuentra artículos de cuero hechos a mano, antigüedades restauradas, joyería de oro y productos de papel elaborados con técnicas centenarias.</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "Via de' Tornabuoni",
+          "content": "<p>La calle comercial más elegante de Florencia presenta marcas de lujo y casas de moda italiana de alta gama. Incluso si solo estás mirando escaparates, la arquitectura y el ambiente valen la pena.</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "Mercado de Sant'Ambrogio",
+          "content": "<p>Un favorito local lejos de las multitudes turísticas. Este mercado diario ofrece productos frescos, flores y artículos del hogar a precios locales. Las calles circundantes tienen excelentes trattorias.</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "Dónde Comen los Florentinos",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "Cocina Tradicional Florentina",
+          "content": "<p>La cocina florentina es abundante y sabrosa. Platos que debes probar:</p><ul><li><strong>Bistecca alla Fiorentina:</strong> El famoso chuletón, a la parrilla poco hecho</li><li><strong>Ribollita:</strong> Abundante sopa de pan y verduras</li><li><strong>Lampredotto:</strong> Comida callejera tradicional (bocadillo de callos)</li><li><strong>Schiacciata:</strong> Pan plano florentino</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "Mejores Barrios para Comer",
+          "content": "<p>Para experiencias auténticas, aventúrate más allá del centro turístico:</p><ul><li><strong>Santo Spirito:</strong> Atmósfera bohemia con excelentes trattorias</li><li><strong>San Frediano:</strong> Favoritos locales y bares de vinos</li><li><strong>Sant'Ambrogio:</strong> Cocina fresca del mercado</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "Vino y Aperitivo",
+          "content": "<p>La Toscana es tierra de vinos. No te pierdas:</p><ul><li>Chianti Classico de las colinas cercanas</li><li>Brunello di Montalcino para ocasiones especiales</li><li>La hora del aperitivo (18-20h) con aperitivos incluidos</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "Excursiones de un Día desde Florencia",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "Pueblos de las Colinas Toscanas",
+          "content": "<p>El campo toscano está salpicado de pueblos medievales:</p><ul><li><strong>San Gimignano:</strong> Famoso por sus torres medievales (1 hora)</li><li><strong>Siena:</strong> Impresionante arquitectura gótica y el Palio (1,5 horas)</li><li><strong>Volterra:</strong> Historia etrusca y artesanía de alabastro (1,5 horas)</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "Región Vinícola del Chianti",
+          "content": "<p>Te esperan colinas ondulantes, viñedos y olivares. Visita bodegas para catas, explora encantadores pueblos como Greve y Panzano, y disfruta de largos almuerzos en restaurantes del campo.</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "Pisa y Lucca",
+          "content": "<p><strong>Pisa:</strong> Más allá de la Torre Inclinada, explora la hermosa Piazza dei Miracoli (1 hora en tren).</p><p><strong>Lucca:</strong> Camina o anda en bicicleta sobre las murallas renacentistas de esta encantadora ciudad amurallada (1,5 horas en tren).</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "Cinque Terre",
+          "content": "<p>Estos cinco coloridos pueblos pesqueros en la costa de Liguria son perfectos para una excursión de un día. Camina entre pueblos o toma el tren. Mejor visitarlos en temporada baja (2,5 horas en tren).</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "Errores Comunes a Evitar",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "Trampas para Turistas",
+          "content": "<p>Evita estos errores comunes:</p><ul><li>Comer en restaurantes justo al lado de las principales atracciones</li><li>No reservar los principales museos con anticipación (Uffizi, Accademia)</li><li>Pagar por agua en restaurantes (pide agua del grifo)</li><li>Tomar taxis sin confirmar que el taxímetro está funcionando</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "Errores Culturales",
+          "content": "<p>Respeta las costumbres locales:</p><ul><li>Vístete apropiadamente para las iglesias (hombros y rodillas cubiertos)</li><li>No te sientes en los escalones de las iglesias para comer</li><li>Aprende frases básicas en italiano - los locales aprecian el esfuerzo</li><li>El cappuccino es solo una bebida matutina</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "Errores de Horarios",
+          "content": "<p>Planifica según los horarios italianos:</p><ul><li>Muchas tiendas cierran para el almuerzo (13-15:30h)</li><li>Los restaurantes no sirven cena antes de las 19:30h</li><li>Los museos a menudo cierran los lunes</li><li>En agosto muchos negocios locales cierran por vacaciones</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "Qué Ver en Florencia",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "Museos Imprescindibles",
+          "content": "<p>Los museos de clase mundial de Florencia requieren reserva anticipada:</p><ul><li><strong>Galería Uffizi:</strong> Obras maestras del Renacimiento incluyendo El Nacimiento de Venus de Botticelli</li><li><strong>Galleria dell'Accademia:</strong> Hogar del David de Miguel Ángel</li><li><strong>Palazzo Pitti:</strong> Múltiples museos y los Jardines de Boboli</li><li><strong>Bargello:</strong> Museo de escultura con obras de Donatello</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "Iglesias Históricas",
+          "content": "<p>Las iglesias de Florencia son tesoros arquitectónicos:</p><ul><li><strong>Santa Maria del Fiore (Duomo):</strong> Cúpula icónica e impresionante interior</li><li><strong>Santa Croce:</strong> Lugar de descanso final de Miguel Ángel y Galileo</li><li><strong>San Lorenzo:</strong> Iglesia de la familia Medici con la sacristía de Miguel Ángel</li><li><strong>Santa Maria Novella:</strong> Hermosos frescos y claustros</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "Palacios y Jardines",
+          "content": "<p>Experimenta la grandeza florentina:</p><ul><li><strong>Palazzo Vecchio:</strong> Ayuntamiento con lujosas salas renacentistas</li><li><strong>Jardines de Boboli:</strong> Extensos jardines renacentistas detrás del Palazzo Pitti</li><li><strong>Jardines Bardini:</strong> Menos concurridos con impresionantes vistas de la ciudad</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "Cómo Pasar 48 Horas en Florencia",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "Día 1: Mañana",
+          "content": "<p>Comienza temprano en la <strong>Galleria dell'Accademia</strong> para ver el David de Miguel Ángel antes de las multitudes. Luego camina hasta el <strong>Duomo</strong> y sube a la cúpula de Brunelleschi para vistas panorámicas (reserva con anticipación).</p><p>Toma un almuerzo rápido en el <strong>Mercato Centrale</strong> - prueba el lampredotto o un panino fresco.</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "Día 1: Tarde y Noche",
+          "content": "<p>Pasa la tarde en la <strong>Galería Uffizi</strong> - reserva al menos 3 horas. Cruza el <strong>Ponte Vecchio</strong> en la hora dorada para hermosas fotos.</p><p>Para cenar, dirígete a <strong>Santo Spirito</strong> para auténtica cocina florentina y observar gente en la plaza.</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "Día 2: Mañana",
+          "content": "<p>Explora el barrio <strong>Oltrarno</strong>. Visita talleres artesanales, curiosea en tiendas de antigüedades y para a tomar un café en un bar local.</p><p>Visita el <strong>Palazzo Pitti</strong> y pasea por los <strong>Jardines de Boboli</strong>.</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "Día 2: Tarde y Noche",
+          "content": "<p>Visita la iglesia de <strong>Santa Croce</strong> y explora el barrio circundante. Compra artículos de cuero en la escuela cercana.</p><p>Termina tu viaje en el <strong>Piazzale Michelangelo</strong> para ver el atardecer sobre la ciudad. ¡Brinda por Florencia con una copa de Chianti!</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "Buscar...",
+    "menu": "Menú",
+    "selectLanguage": "Seleccionar Idioma",
+    "searchResults": "Resultados de Búsqueda",
+    "noResults": "No se encontraron resultados",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "chapter": "Capítulo"
+  }
+}

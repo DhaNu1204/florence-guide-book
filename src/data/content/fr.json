@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "fr",
+    "languageName": "Français",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "Planifier Votre Visite",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "Meilleure Période pour Visiter",
+          "content": "<p>Florence est belle toute l'année, mais les meilleures périodes pour la visiter sont le printemps (avril à juin) et l'automne (septembre à octobre). Pendant ces périodes, vous profiterez d'un temps agréable, de moins de foule et de la ville à son plus beau.</p><p>Les mois d'été (juillet-août) peuvent être chauds et bondés de touristes, tandis que l'hiver offre une expérience plus calme avec des pluies occasionnelles.</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "Comment S'y Rendre",
+          "content": "<p>Florence est bien desservie par avion, train et route:</p><ul><li><strong>Par Avion:</strong> L'aéroport de Florence (FLR) est à 4km du centre-ville. L'aéroport de Pise (PSA) est à environ 80km avec des liaisons ferroviaires régulières.</li><li><strong>Par Train:</strong> La gare Santa Maria Novella est le hub principal, avec des trains à grande vitesse depuis Rome (1h30) et Milan (2h).</li><li><strong>Par Voiture:</strong> L'autoroute A1 relie Florence aux principales villes italiennes.</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "Où Se Loger",
+          "content": "<p>Florence offre des hébergements pour tous les budgets:</p><ul><li><strong>Centre Historique:</strong> Idéal pour les premiers visiteurs, à distance de marche des principales attractions.</li><li><strong>Oltrarno:</strong> Quartier artisanal avec une ambiance locale, excellents restaurants.</li><li><strong>San Lorenzo:</strong> Près du marché central, options économiques.</li><li><strong>Santa Croce:</strong> Vie nocturne animée, atmosphère florentine authentique.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "Les Plus Beaux Endroits Gratuits de Florence",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "Piazza del Duomo",
+          "content": "<p>Le cœur de Florence, cette magnifique place abrite l'emblématique cathédrale Santa Maria del Fiore avec le célèbre dôme de Brunelleschi. L'entrée dans la cathédrale est gratuite, mais monter au dôme nécessite un billet.</p><p>Ne manquez pas les superbes portes du Baptistère, connues sous le nom de \"Portes du Paradis\".</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "Piazzale Michelangelo",
+          "content": "<p>Pour les meilleures vues panoramiques de Florence, rendez-vous sur cette place en hauteur. Les vues au coucher du soleil sur la ville sont absolument époustouflantes et entièrement gratuites. Apportez un pique-nique et profitez de l'atmosphère romantique.</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "Ponte Vecchio",
+          "content": "<p>Le plus ancien pont de Florence, datant de l'époque médiévale, est bordé de bijouteries et offre de superbes vues sur l'Arno. Le traverser est gratuit et c'est une expérience incontournable.</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "Quartier du Marché San Lorenzo",
+          "content": "<p>Explorez le marché en plein air animé autour de la basilique San Lorenzo. Parcourez les articles en cuir, les souvenirs et l'artisanat local. L'atmosphère du marché est typiquement florentine.</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "Où Faire du Shopping Comme un Local",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "Mercato Centrale",
+          "content": "<p>Ce marché couvert historique est un paradis pour les gourmands. Le rez-de-chaussée propose des produits frais, viandes, fromages et spécialités locales. L'étage supérieur dispose d'une aire de restauration moderne avec des artisans.</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "Ateliers d'Artisans de l'Oltrarno",
+          "content": "<p>Traversez l'Arno pour découvrir des artisans traditionnels au travail. Trouvez des articles en cuir faits main, des antiquités restaurées, des bijoux en or et des produits en papier fabriqués selon des techniques séculaires.</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "Via de' Tornabuoni",
+          "content": "<p>La rue commerçante la plus élégante de Florence présente des marques de luxe et des maisons de mode italiennes haut de gamme. Même si vous ne faites que du lèche-vitrine, l'architecture et l'atmosphère valent le détour.</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "Marché de Sant'Ambrogio",
+          "content": "<p>Un favori local loin des foules touristiques. Ce marché quotidien propose des produits frais, des fleurs et des articles ménagers à prix locaux. Les rues environnantes ont d'excellentes trattorias.</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "Où Mangent les Florentins",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "Cuisine Traditionnelle Florentine",
+          "content": "<p>La cuisine florentine est copieuse et savoureuse. Plats à essayer absolument:</p><ul><li><strong>Bistecca alla Fiorentina:</strong> La célèbre côte de bœuf, grillée saignante</li><li><strong>Ribollita:</strong> Soupe consistante au pain et aux légumes</li><li><strong>Lampredotto:</strong> Street food traditionnelle (sandwich aux tripes)</li><li><strong>Schiacciata:</strong> Pain plat florentin</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "Meilleurs Quartiers pour Manger",
+          "content": "<p>Pour des expériences authentiques, aventurez-vous au-delà du centre touristique:</p><ul><li><strong>Santo Spirito:</strong> Atmosphère bohème avec d'excellentes trattorias</li><li><strong>San Frediano:</strong> Favoris locaux et bars à vin</li><li><strong>Sant'Ambrogio:</strong> Cuisine fraîche du marché</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "Vin et Aperitivo",
+          "content": "<p>La Toscane est une région viticole. À ne pas manquer:</p><ul><li>Chianti Classico des collines voisines</li><li>Brunello di Montalcino pour les occasions spéciales</li><li>L'heure de l'aperitivo (18h-20h) avec amuse-bouches offerts</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "Excursions d'une Journée depuis Florence",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "Villages Perchés Toscans",
+          "content": "<p>La campagne toscane est parsemée de villages médiévaux perchés:</p><ul><li><strong>San Gimignano:</strong> Célèbre pour ses tours médiévales (1 heure)</li><li><strong>Sienne:</strong> Architecture gothique époustouflante et le Palio (1h30)</li><li><strong>Volterra:</strong> Histoire étrusque et artisanat de l'albâtre (1h30)</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "Région Viticole du Chianti",
+          "content": "<p>Des collines ondulantes, des vignobles et des oliveraies vous attendent. Visitez des domaines viticoles pour des dégustations, explorez des villages charmants comme Greve et Panzano, et profitez de longs déjeuners dans les restaurants de campagne.</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "Pise et Lucques",
+          "content": "<p><strong>Pise:</strong> Au-delà de la Tour Penchée, explorez la magnifique Piazza dei Miracoli (1 heure en train).</p><p><strong>Lucques:</strong> Marchez ou faites du vélo sur les remparts Renaissance de cette charmante ville fortifiée (1h30 en train).</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "Cinque Terre",
+          "content": "<p>Ces cinq villages de pêcheurs colorés sur la côte ligure font une excursion mémorable. Randonnez entre les villages ou prenez le train. À visiter de préférence en basse saison (2h30 en train).</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "Erreurs Courantes à Éviter",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "Pièges à Touristes",
+          "content": "<p>Évitez ces erreurs courantes:</p><ul><li>Manger dans les restaurants juste à côté des principales attractions</li><li>Ne pas réserver les grands musées à l'avance (Offices, Accademia)</li><li>Payer l'eau dans les restaurants (demandez l'eau du robinet)</li><li>Prendre des taxis sans vérifier que le compteur fonctionne</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "Faux Pas Culturels",
+          "content": "<p>Respectez les coutumes locales:</p><ul><li>Habillez-vous convenablement pour les églises (épaules et genoux couverts)</li><li>Ne vous asseyez pas sur les marches des églises pour manger</li><li>Apprenez des phrases de base en italien - les locaux apprécient l'effort</li><li>Le cappuccino est uniquement une boisson du matin</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "Erreurs de Timing",
+          "content": "<p>Planifiez selon les horaires italiens:</p><ul><li>Beaucoup de magasins ferment pour le déjeuner (13h-15h30)</li><li>Les restaurants ne servent pas le dîner avant 19h30</li><li>Les musées ferment souvent le lundi</li><li>En août, de nombreux commerces locaux ferment pour les vacances</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "Que Voir à Florence",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "Musées Incontournables",
+          "content": "<p>Les musées de classe mondiale de Florence nécessitent une réservation préalable:</p><ul><li><strong>Galerie des Offices:</strong> Chefs-d'œuvre de la Renaissance dont La Naissance de Vénus de Botticelli</li><li><strong>Galleria dell'Accademia:</strong> Abrite le David de Michel-Ange</li><li><strong>Palazzo Pitti:</strong> Plusieurs musées et les Jardins de Boboli</li><li><strong>Bargello:</strong> Musée de sculpture avec des œuvres de Donatello</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "Églises Historiques",
+          "content": "<p>Les églises de Florence sont des trésors architecturaux:</p><ul><li><strong>Santa Maria del Fiore (Duomo):</strong> Dôme emblématique et intérieur époustouflant</li><li><strong>Santa Croce:</strong> Dernière demeure de Michel-Ange et Galilée</li><li><strong>San Lorenzo:</strong> Église de la famille Médicis avec la sacristie de Michel-Ange</li><li><strong>Santa Maria Novella:</strong> Magnifiques fresques et cloîtres</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "Palais et Jardins",
+          "content": "<p>Découvrez la grandeur florentine:</p><ul><li><strong>Palazzo Vecchio:</strong> Hôtel de ville aux somptueuses salles Renaissance</li><li><strong>Jardins de Boboli:</strong> Vastes jardins Renaissance derrière le Palazzo Pitti</li><li><strong>Jardins Bardini:</strong> Moins fréquentés avec de superbes vues sur la ville</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "Comment Passer 48 Heures à Florence",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "Jour 1: Matin",
+          "content": "<p>Commencez tôt à la <strong>Galleria dell'Accademia</strong> pour voir le David de Michel-Ange avant la foule. Puis marchez jusqu'au <strong>Duomo</strong> et montez au dôme de Brunelleschi pour des vues panoramiques (réservez à l'avance).</p><p>Prenez un déjeuner rapide au <strong>Mercato Centrale</strong> - essayez le lampredotto ou un panino frais.</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "Jour 1: Après-midi et Soir",
+          "content": "<p>Passez l'après-midi à la <strong>Galerie des Offices</strong> - prévoyez au moins 3 heures. Traversez le <strong>Ponte Vecchio</strong> à l'heure dorée pour de belles photos.</p><p>Pour le dîner, rendez-vous à <strong>Santo Spirito</strong> pour une cuisine florentine authentique et observer les gens sur la place.</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "Jour 2: Matin",
+          "content": "<p>Explorez le quartier <strong>Oltrarno</strong>. Visitez les ateliers d'artisans, parcourez les antiquaires et arrêtez-vous pour un café dans un bar local.</p><p>Visitez le <strong>Palazzo Pitti</strong> et promenez-vous dans les <strong>Jardins de Boboli</strong>.</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "Jour 2: Après-midi et Soir",
+          "content": "<p>Visitez l'église <strong>Santa Croce</strong> et explorez le quartier environnant. Achetez des articles en cuir à l'école voisine.</p><p>Terminez votre voyage au <strong>Piazzale Michelangelo</strong> pour le coucher de soleil sur la ville. Portez un toast à Florence avec un verre de Chianti!</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "Rechercher...",
+    "menu": "Menu",
+    "selectLanguage": "Choisir la Langue",
+    "searchResults": "Résultats de Recherche",
+    "noResults": "Aucun résultat trouvé",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "chapter": "Chapitre"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "da",
+    "languageName": "Dansk",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "Planlæg Dit Besøg",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "Bedste Tid at Besøge",
+          "content": "<p>Firenze er smuk året rundt, men de bedste tidspunkter at besøge er forår (april-juni) og efterår (september-oktober). I disse perioder nyder du behageligt vejr og færre menneskemængder.</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "Sådan Kommer Du Dertil",
+          "content": "<p>Firenze er godt forbundet med fly, tog og bil:</p><ul><li><strong>Med fly:</strong> Firenze Lufthavn (FLR) ligger 4km fra centrum.</li><li><strong>Med tog:</strong> Santa Maria Novella-stationen er hovedknudepunktet.</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "Hvor Man Bor",
+          "content": "<p>Firenze tilbyder indkvartering til ethvert budget:</p><ul><li><strong>Historiske Centrum:</strong> Ideelt for førstegangsbesøgende.</li><li><strong>Oltrarno:</strong> Håndværkerkvarter med lokal atmosfære.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "Firenzes Smukkeste Gratis Steder",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "Piazza del Duomo",
+          "content": "<p>Firenzes hjerte, denne storslåede plads er hjemsted for den ikoniske katedral Santa Maria del Fiore med Brunelleschis berømte kuppel.</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "Piazzale Michelangelo",
+          "content": "<p>For den bedste panoramaudsigt over Firenze, tag til denne plads på bakken. Solnedgangsudsigten er absolut betagende og helt gratis.</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "Ponte Vecchio",
+          "content": "<p>Firenzes ældste bro, fra middelalderen, er omgivet af juvelerbutikker og byder på fantastisk udsigt over Arno-floden.</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "San Lorenzo Markedsområde",
+          "content": "<p>Udforsk det livlige udendørsmarked omkring San Lorenzo-basilikaen. Find lædervarer, souvenirs og lokalt håndværk.</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "Shop Som en Lokal",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "Mercato Centrale",
+          "content": "<p>Dette historiske overdækkede marked er et paradis for madentusiaster med friske produkter, kød, ost og lokale specialiteter.</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "Håndværksværksteder i Oltrarno",
+          "content": "<p>Kryds Arno for at opdage traditionelle håndværkere i arbejde. Find håndlavede lædervarer og guldsmykker.</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "Via de' Tornabuoni",
+          "content": "<p>Firenzes mest elegante shoppinggade med luksusmærker og italienske modehuse.</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "Sant'Ambrogio Marked",
+          "content": "<p>En lokal favorit væk fra turistmængderne med friske produkter til lokale priser.</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "Hvor Florentinere Spiser",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "Traditionelt Florentinsk Køkken",
+          "content": "<p>Det florentinske køkken er mættende og smagfuldt:</p><ul><li><strong>Bistecca alla Fiorentina:</strong> Den berømte T-bone bøf</li><li><strong>Ribollita:</strong> Mættende brød- og grøntsagssuppe</li><li><strong>Lampredotto:</strong> Traditionel gademad</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "Bedste Kvarterer til Mad",
+          "content": "<p>For autentiske oplevelser, vov dig uden for turistcentret:</p><ul><li><strong>Santo Spirito:</strong> Boheme-atmosfære med fremragende trattorier</li><li><strong>San Frediano:</strong> Lokale favoritter og vinbarer</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "Vin og Aperitivo",
+          "content": "<p>Toscana er vinland. Gå ikke glip af Chianti Classico og aperitivotimen (18-20) med gratis snacks.</p>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "Dagsture fra Firenze",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "Toscanske Bakke-byer",
+          "content": "<p>Det toscanske landskab er fyldt med middelalderlige bakkebyer:</p><ul><li><strong>San Gimignano:</strong> Berømt for sine middelalderlige tårne</li><li><strong>Siena:</strong> Fantastisk gotisk arkitektur</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "Chianti Vinregion",
+          "content": "<p>Bølgende bakker, vingårde og olivenlunde venter. Besøg vingårde til smagninger.</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "Pisa og Lucca",
+          "content": "<p><strong>Pisa:</strong> Udforsk den smukke Piazza dei Miracoli.</p><p><strong>Lucca:</strong> Gå eller cykl på renæssancemurene.</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "Cinque Terre",
+          "content": "<p>Disse fem farverige fiskerlandsbyer på den liguriske kyst er perfekte til en dagstur.</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "Almindelige Fejl at Undgå",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "Turistfælder",
+          "content": "<p>Undgå disse almindelige fejl:</p><ul><li>Spise på restauranter lige ved siden af store attraktioner</li><li>Ikke booke museer på forhånd</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "Kulturelle Fadæser",
+          "content": "<p>Respekter lokale skikke:</p><ul><li>Klæd dig passende til kirker</li><li>Lær grundlæggende italienske sætninger</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "Tidsfejl",
+          "content": "<p>Planlæg efter italienske tider:</p><ul><li>Mange butikker lukker til frokost (13-15:30)</li><li>Restauranter serverer ikke aftensmad før 19:30</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "Hvad Man Skal Se i Firenze",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "Must-See Museer",
+          "content": "<p>Firenzes verdensklasse museer kræver forudbestilling:</p><ul><li><strong>Uffizi-galleriet:</strong> Renæssance-mesterværker</li><li><strong>Galleria dell'Accademia:</strong> Hjem for Michelangelos David</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "Historiske Kirker",
+          "content": "<p>Firenzes kirker er arkitektoniske skatte:</p><ul><li><strong>Santa Maria del Fiore (Duomo):</strong> Ikonisk kuppel</li><li><strong>Santa Croce:</strong> Michelangelos sidste hvilested</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "Paladser og Haver",
+          "content": "<p>Oplev florentinsk storhed:</p><ul><li><strong>Palazzo Vecchio:</strong> Rådhus med renæssancesale</li><li><strong>Boboli-haverne:</strong> Vidtstrakte renæssancehaver</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "48 Timer i Firenze",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "Dag 1: Formiddag",
+          "content": "<p>Start tidligt på <strong>Galleria dell'Accademia</strong> for at se Michelangelos David. Gå derefter til <strong>Duomo</strong> og bestig Brunelleschis kuppel.</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "Dag 1: Eftermiddag og Aften",
+          "content": "<p>Tilbring eftermiddagen på <strong>Uffizi-galleriet</strong>. Kryds <strong>Ponte Vecchio</strong> i den gyldne time. Spis aftensmad i <strong>Santo Spirito</strong>.</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "Dag 2: Formiddag",
+          "content": "<p>Udforsk <strong>Oltrarno</strong>-kvarteret. Besøg håndværksværksteder og <strong>Palazzo Pitti</strong> med <strong>Boboli-haverne</strong>.</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "Dag 2: Eftermiddag og Aften",
+          "content": "<p>Besøg <strong>Santa Croce</strong>-kirken. Afslut din rejse på <strong>Piazzale Michelangelo</strong> ved solnedgang. Skål for Firenze med et glas Chianti!</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "Søg...",
+    "menu": "Menu",
+    "selectLanguage": "Vælg Sprog",
+    "searchResults": "Søgeresultater",
+    "noResults": "Ingen resultater fundet",
+    "previous": "Forrige",
+    "next": "Næste",
+    "chapter": "Kapitel"
+  }
+}

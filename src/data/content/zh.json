@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "language": "zh",
+    "languageName": "中文",
+    "direction": "ltr"
+  },
+  "chapters": [
+    {
+      "id": "planning-your-visit",
+      "number": 1,
+      "title": "规划您的行程",
+      "icon": "calendar",
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "最佳旅游时间",
+          "content": "<p>佛罗伦萨全年都很美丽，但最佳旅游时间是春季（4月至6月）和秋季（9月至10月）。在这些时期，您将享受宜人的天气和较少的人群。</p>"
+        },
+        {
+          "id": "section-1-2",
+          "title": "如何到达",
+          "content": "<p>佛罗伦萨交通便利：</p><ul><li><strong>飞机：</strong>佛罗伦萨机场(FLR)距市中心4公里。</li><li><strong>火车：</strong>圣玛丽亚诺维拉车站是主要枢纽。</li></ul>"
+        },
+        {
+          "id": "section-1-3",
+          "title": "住宿推荐",
+          "content": "<p>佛罗伦萨提供各种预算的住宿：</p><ul><li><strong>历史中心：</strong>适合首次游客。</li><li><strong>奥尔特拉诺：</strong>工匠区，当地氛围浓厚。</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "free-places",
+      "number": 2,
+      "title": "佛罗伦萨最美的免费景点",
+      "icon": "landmark",
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "大教堂广场",
+          "content": "<p>佛罗伦萨的心脏，这个宏伟的广场是标志性的圣母百花大教堂所在地，拥有布鲁内莱斯基著名的穹顶。</p>"
+        },
+        {
+          "id": "section-2-2",
+          "title": "米开朗基罗广场",
+          "content": "<p>要欣赏佛罗伦萨最佳全景，请前往这个山顶广场。日落时的城市景观绝对令人惊叹，而且完全免费。</p>"
+        },
+        {
+          "id": "section-2-3",
+          "title": "老桥",
+          "content": "<p>佛罗伦萨最古老的桥梁，可追溯到中世纪，两旁是珠宝店，可以欣赏阿诺河的美景。</p>"
+        },
+        {
+          "id": "section-2-4",
+          "title": "圣洛伦佐市场区",
+          "content": "<p>探索圣洛伦佐大教堂周围热闹的露天市场。寻找皮革制品、纪念品和当地工艺品。</p>"
+        }
+      ]
+    },
+    {
+      "id": "shopping-like-local",
+      "number": 3,
+      "title": "像当地人一样购物",
+      "icon": "shopping-bag",
+      "sections": [
+        {
+          "id": "section-3-1",
+          "title": "中央市场",
+          "content": "<p>这个历史悠久的室内市场是美食爱好者的天堂，提供新鲜农产品、肉类、奶酪和当地特产。</p>"
+        },
+        {
+          "id": "section-3-2",
+          "title": "奥尔特拉诺工匠作坊",
+          "content": "<p>跨过阿诺河，发现传统工匠的工作。找到手工皮革制品和金饰。</p>"
+        },
+        {
+          "id": "section-3-3",
+          "title": "托纳布尼大街",
+          "content": "<p>佛罗伦萨最优雅的购物街，拥有奢侈品牌和意大利高端时装屋。</p>"
+        },
+        {
+          "id": "section-3-4",
+          "title": "圣安布罗焦市场",
+          "content": "<p>远离游客人群的当地最爱，以当地价格提供新鲜农产品。</p>"
+        }
+      ]
+    },
+    {
+      "id": "where-florentines-dine",
+      "number": 4,
+      "title": "佛罗伦萨人的用餐之处",
+      "icon": "utensils",
+      "sections": [
+        {
+          "id": "section-4-1",
+          "title": "传统佛罗伦萨美食",
+          "content": "<p>佛罗伦萨美食丰盛美味：</p><ul><li><strong>佛罗伦萨牛排：</strong>著名的T骨牛排</li><li><strong>里博利塔：</strong>丰盛的面包蔬菜汤</li><li><strong>牛肚三明治：</strong>传统街头美食</li></ul>"
+        },
+        {
+          "id": "section-4-2",
+          "title": "最佳用餐区域",
+          "content": "<p>要获得真实体验，请走出旅游中心：</p><ul><li><strong>圣斯皮里托：</strong>波西米亚氛围，优秀的小餐馆</li><li><strong>圣弗雷迪亚诺：</strong>当地人最爱和酒吧</li></ul>"
+        },
+        {
+          "id": "section-4-3",
+          "title": "葡萄酒和开胃酒",
+          "content": "<p>托斯卡纳是葡萄酒之乡。不要错过经典基安蒂和开胃酒时间（18-20点），附赠小食。</p>"
+        }
+      ]
+    },
+    {
+      "id": "day-trips",
+      "number": 5,
+      "title": "佛罗伦萨一日游",
+      "icon": "map",
+      "sections": [
+        {
+          "id": "section-5-1",
+          "title": "托斯卡纳山城",
+          "content": "<p>托斯卡纳乡村点缀着中世纪山城：</p><ul><li><strong>圣吉米尼亚诺：</strong>以中世纪塔楼闻名</li><li><strong>锡耶纳：</strong>令人惊叹的哥特式建筑</li></ul>"
+        },
+        {
+          "id": "section-5-2",
+          "title": "基安蒂葡萄酒产区",
+          "content": "<p>连绵起伏的山丘、葡萄园和橄榄园等待着您。参观酒庄品酒。</p>"
+        },
+        {
+          "id": "section-5-3",
+          "title": "比萨和卢卡",
+          "content": "<p><strong>比萨：</strong>探索美丽的奇迹广场。</p><p><strong>卢卡：</strong>在文艺复兴城墙上散步或骑行。</p>"
+        },
+        {
+          "id": "section-5-4",
+          "title": "五渔村",
+          "content": "<p>利古里亚海岸的这五个色彩缤纷的渔村非常适合一日游。</p>"
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "number": 6,
+      "title": "常见错误",
+      "icon": "alert-triangle",
+      "sections": [
+        {
+          "id": "section-6-1",
+          "title": "旅游陷阱",
+          "content": "<p>避免这些常见错误：</p><ul><li>在主要景点旁边的餐厅用餐</li><li>不提前预订博物馆</li></ul>"
+        },
+        {
+          "id": "section-6-2",
+          "title": "文化失误",
+          "content": "<p>尊重当地习俗：</p><ul><li>参观教堂时着装得体</li><li>学习基本的意大利语</li></ul>"
+        },
+        {
+          "id": "section-6-3",
+          "title": "时间错误",
+          "content": "<p>按照意大利时间表计划：</p><ul><li>许多商店午餐时间关门（13-15:30）</li><li>餐厅19:30前不供应晚餐</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "what-to-see",
+      "number": 7,
+      "title": "佛罗伦萨必看景点",
+      "icon": "camera",
+      "sections": [
+        {
+          "id": "section-7-1",
+          "title": "必看博物馆",
+          "content": "<p>佛罗伦萨世界级博物馆需要提前预订：</p><ul><li><strong>乌菲兹美术馆：</strong>文艺复兴杰作</li><li><strong>学院美术馆：</strong>米开朗基罗大卫像所在地</li></ul>"
+        },
+        {
+          "id": "section-7-2",
+          "title": "历史教堂",
+          "content": "<p>佛罗伦萨的教堂是建筑瑰宝：</p><ul><li><strong>圣母百花大教堂：</strong>标志性穹顶</li><li><strong>圣十字教堂：</strong>米开朗基罗的安息之地</li></ul>"
+        },
+        {
+          "id": "section-7-3",
+          "title": "宫殿和花园",
+          "content": "<p>体验佛罗伦萨的宏伟：</p><ul><li><strong>旧宫：</strong>拥有文艺复兴大厅的市政厅</li><li><strong>波波里花园：</strong>广阔的文艺复兴花园</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "48-hours-itinerary",
+      "number": 8,
+      "title": "佛罗伦萨48小时行程",
+      "icon": "clock",
+      "sections": [
+        {
+          "id": "section-8-1",
+          "title": "第一天：上午",
+          "content": "<p>早起前往<strong>学院美术馆</strong>观看米开朗基罗的大卫像。然后步行到<strong>大教堂</strong>，登上布鲁内莱斯基的穹顶。</p>"
+        },
+        {
+          "id": "section-8-2",
+          "title": "第一天：下午和晚上",
+          "content": "<p>下午在<strong>乌菲兹美术馆</strong>度过。黄金时段穿过<strong>老桥</strong>。在<strong>圣斯皮里托</strong>用晚餐。</p>"
+        },
+        {
+          "id": "section-8-3",
+          "title": "第二天：上午",
+          "content": "<p>探索<strong>奥尔特拉诺</strong>区。参观工匠作坊和<strong>皮蒂宫</strong>及<strong>波波里花园</strong>。</p>"
+        },
+        {
+          "id": "section-8-4",
+          "title": "第二天：下午和晚上",
+          "content": "<p>参观<strong>圣十字教堂</strong>。在<strong>米开朗基罗广场</strong>欣赏日落结束行程。举杯基安蒂为佛罗伦萨干杯！</p>"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "search": "搜索...",
+    "menu": "菜单",
+    "selectLanguage": "选择语言",
+    "searchResults": "搜索结果",
+    "noResults": "未找到结果",
+    "previous": "上一页",
+    "next": "下一页",
+    "chapter": "章节"
+  }
+}

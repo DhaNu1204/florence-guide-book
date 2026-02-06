@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans antialiased bg-gray-50 text-gray-900;
+  }
+
+  /* RTL Support for Arabic */
+  [dir="rtl"] {
+    direction: rtl;
+    text-align: right;
+  }
+
+  [dir="rtl"] .sidebar {
+    @apply right-0 left-auto;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary-600 text-white px-4 py-2 rounded-lg hover:bg-primary-700 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply bg-primary-100 text-primary-700 px-4 py-2 rounded-lg hover:bg-primary-200 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+
+  .menu-item {
+    @apply flex items-center gap-3 px-4 py-3 text-gray-700 hover:bg-primary-50 hover:text-primary-700 rounded-lg transition-colors duration-200 cursor-pointer;
+  }
+
+  .menu-item.active {
+    @apply bg-primary-100 text-primary-700 font-medium;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6;
+  }
+
+  .gradient-header {
+    @apply bg-gradient-to-r from-primary-600 to-primary-700;
+  }
+
+  .content-section {
+    @apply prose prose-purple max-w-none;
+  }
+
+  .content-section h1 {
+    @apply text-3xl font-bold text-gray-900 mb-6;
+  }
+
+  .content-section h2 {
+    @apply text-2xl font-semibold text-gray-800 mt-8 mb-4;
+  }
+
+  .content-section h3 {
+    @apply text-xl font-medium text-gray-700 mt-6 mb-3;
+  }
+
+  .content-section p {
+    @apply text-gray-600 leading-relaxed mb-4;
+  }
+
+  .content-section ul {
+    @apply list-disc list-inside space-y-2 mb-4 text-gray-600;
+  }
+
+  .content-section ol {
+    @apply list-decimal list-inside space-y-2 mb-4 text-gray-600;
+  }
+
+  .content-section img {
+    @apply rounded-lg shadow-md my-6;
+  }
+
+  .search-highlight {
+    @apply bg-yellow-200 px-1 rounded;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: theme('colors.primary.300') theme('colors.gray.100');
+  }
+
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    @apply bg-gray-100 rounded;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply bg-primary-300 rounded hover:bg-primary-400;
+  }
+}
