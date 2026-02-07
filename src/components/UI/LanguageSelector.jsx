@@ -29,7 +29,7 @@ export default function LanguageSelector() {
     <div className="relative" ref={dropdownRef}>
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 px-3 py-2 bg-white/10 hover:bg-white/20 rounded-lg transition-colors"
+        className="flex items-center gap-2 px-3 py-2 min-h-[44px] bg-white/10 hover:bg-white/20 rounded-lg transition-colors"
         aria-label={content?.ui?.selectLanguage || 'Select Language'}
       >
         <FlagIcon countryCode={currentLang?.countryCode || 'gb'} className="w-6 h-4" />
@@ -40,7 +40,7 @@ export default function LanguageSelector() {
       </button>
 
       {isOpen && (
-        <div className="absolute right-0 mt-2 w-64 bg-white rounded-xl shadow-xl border border-gray-100 py-2 z-50 max-h-96 overflow-y-auto scrollbar-thin">
+        <div className="absolute end-0 mt-2 w-64 max-w-[calc(100vw-2rem)] bg-white rounded-xl shadow-xl border border-gray-100 py-2 z-50 max-h-96 overflow-y-auto scrollbar-thin">
           {languages.map((lang) => (
             <button
               key={lang.code}

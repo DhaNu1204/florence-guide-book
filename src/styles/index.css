@@ -22,6 +22,17 @@
   [dir="rtl"] .sidebar {
     @apply right-0 left-auto;
   }
+
+  /* CJK line-break rules */
+  :lang(zh) .content-section,
+  :lang(ja) .content-section {
+    line-break: strict;
+  }
+
+  :lang(ko) .content-section {
+    word-break: keep-all;
+    line-break: strict;
+  }
 }
 
 @layer components {
@@ -42,7 +53,13 @@
   }
 
   .card {
-    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6;
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-4;
+  }
+
+  @media (min-width: 768px) {
+    .card {
+      @apply p-6;
+    }
   }
 
   .gradient-header {
@@ -51,18 +68,33 @@
 
   .content-section {
     @apply prose prose-purple max-w-none;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
   }
 
   .content-section h1 {
-    @apply text-3xl font-bold text-gray-900 mb-6;
+    @apply text-2xl font-bold text-gray-900 mb-6;
   }
 
   .content-section h2 {
-    @apply text-2xl font-semibold text-gray-800 mt-8 mb-4;
+    @apply text-xl font-semibold text-gray-800 mt-8 mb-4;
   }
 
   .content-section h3 {
-    @apply text-xl font-medium text-gray-700 mt-6 mb-3;
+    @apply text-lg font-medium text-gray-700 mt-6 mb-3;
+  }
+
+  @media (min-width: 768px) {
+    .content-section h1 {
+      @apply text-3xl;
+    }
+    .content-section h2 {
+      @apply text-2xl;
+    }
+    .content-section h3 {
+      @apply text-xl;
+    }
   }
 
   .content-section p {
@@ -78,11 +110,26 @@
   }
 
   .content-section img {
-    @apply rounded-lg shadow-md my-6;
+    @apply rounded-lg shadow-md my-6 max-w-full h-auto;
+  }
+
+  .content-section table {
+    @apply block overflow-x-auto w-full;
   }
 
   .search-highlight {
     @apply bg-yellow-200 px-1 rounded;
+  }
+}
+
+@supports (padding: max(0px)) {
+  .gradient-header {
+    padding-top: max(0.75rem, env(safe-area-inset-top));
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+  footer {
+    padding-bottom: max(1.5rem, env(safe-area-inset-bottom));
   }
 }
 

@@ -18,7 +18,7 @@ export default function Header({ onMenuClick }) {
           <div className="flex items-center gap-3">
             <button
               onClick={onMenuClick}
-              className="lg:hidden p-2 hover:bg-white/10 rounded-lg transition-colors"
+              className="lg:hidden p-2 min-h-[44px] min-w-[44px] flex items-center justify-center hover:bg-white/10 rounded-lg transition-colors"
               aria-label={content?.ui?.menu || 'Menu'}
             >
               <Menu className="w-6 h-6" />
@@ -29,7 +29,7 @@ export default function Header({ onMenuClick }) {
               onClick={() => navigate('/chapter/planning-your-visit')}
             >
               <div className="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center">
-                <span className="text-2xl">🏛️</span>
+                <span className="text-2xl" role="img" aria-hidden="true">🏛️</span>
               </div>
               <div className="hidden sm:block">
                 <h1 className="text-xl font-bold">{content?.ui?.appTitle || 'Florence Guidebook'}</h1>
@@ -48,7 +48,7 @@ export default function Header({ onMenuClick }) {
             {/* Mobile Search Toggle */}
             <button
               onClick={() => setSearchOpen(!searchOpen)}
-              className="md:hidden p-2 hover:bg-white/10 rounded-lg transition-colors"
+              className="md:hidden p-2 min-h-[44px] min-w-[44px] flex items-center justify-center hover:bg-white/10 rounded-lg transition-colors"
               aria-label={content?.ui?.search || 'Search'}
             >
               {searchOpen ? <X className="w-6 h-6" /> : <Search className="w-6 h-6" />}

@@ -122,7 +122,7 @@ export default function SearchBar({ onSearch }) {
   return (
     <form onSubmit={handleSubmit} className="relative">
       <div className="relative">
-        <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+        <Search className="absolute start-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
         <input
           ref={inputRef}
           type="text"
@@ -131,14 +131,14 @@ export default function SearchBar({ onSearch }) {
           onKeyDown={handleKeyDown}
           onFocus={handleFocus}
           placeholder={content?.ui?.search || 'Search...'}
-          className="w-full md:w-64 lg:w-80 pl-10 pr-10 py-2 bg-white/90 text-gray-900 placeholder-gray-500 rounded-lg focus:outline-none focus:ring-2 focus:ring-white/50 transition-all"
+          className="w-full md:w-64 lg:w-80 ps-10 pe-10 py-2 min-h-[44px] bg-white/90 text-gray-900 placeholder-gray-500 rounded-lg focus:outline-none focus:ring-2 focus:ring-white/50 transition-all"
           autoComplete="off"
         />
         {query && (
           <button
             type="button"
             onClick={handleClear}
-            className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+            className="absolute end-0 top-1/2 -translate-y-1/2 p-3 text-gray-400 hover:text-gray-600"
           >
             <X className="w-4 h-4" />
           </button>
@@ -161,11 +161,11 @@ export default function SearchBar({ onSearch }) {
               }`}
             >
               <div className="flex-1 min-w-0">
-                <div className="flex items-center gap-2">
-                  <span className="text-xs font-medium text-primary-600 bg-primary-100 px-2 py-0.5 rounded">
+                <div className="flex items-center gap-2 flex-wrap">
+                  <span className="text-xs font-medium text-primary-600 bg-primary-100 px-2 py-0.5 rounded shrink-0">
                     {suggestion.type === 'chapter' ? (content?.ui?.chapter || 'Chapter') : `${content?.ui?.chapterAbbrev || 'Ch.'} ${suggestion.chapterNumber}`}
                   </span>
-                  <span className="text-sm font-medium text-gray-900 truncate">
+                  <span className="text-sm font-medium text-gray-900 line-clamp-2">
                     {highlightMatch(suggestion.title, query)}
                   </span>
                 </div>

@@ -6,10 +6,10 @@ import NotFound from './components/Content/NotFound'
 import { useLanguage } from './hooks/useLanguage'
 
 function App() {
-  const { isRTL } = useLanguage()
+  const { isRTL, currentLanguage } = useLanguage()
 
   return (
-    <div dir={isRTL ? 'rtl' : 'ltr'}>
+    <div dir={isRTL ? 'rtl' : 'ltr'} lang={currentLanguage}>
       <Layout>
         <Routes>
           <Route path="/" element={<Navigate to="/chapter/planning-your-visit" replace />} />

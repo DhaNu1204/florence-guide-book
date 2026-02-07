@@ -72,7 +72,7 @@ export default function SearchResults() {
                     <span className="text-sm text-gray-600">{result.chapterTitle}</span>
                   </div>
                   
-                  <h3 className="font-semibold text-gray-800 mb-2 group-hover:text-primary-700 transition-colors">
+                  <h3 className="font-semibold text-gray-800 mb-2 group-hover:text-primary-700 transition-colors break-words">
                     {result.sectionTitle}
                   </h3>
                   
@@ -89,7 +89,7 @@ export default function SearchResults() {
         </div>
       ) : query ? (
         <div className="card text-center py-12">
-          <div className="text-6xl mb-4">🔍</div>
+          <div className="text-6xl mb-4" role="img" aria-hidden="true">🔍</div>
           <h2 className="text-xl font-semibold text-gray-800 mb-2">
             {content?.ui?.noResults || 'No results found'}
           </h2>

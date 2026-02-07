@@ -18,7 +18,7 @@ export default function ChapterView() {
   if (!chapter) {
     return (
       <div className="card text-center py-12">
-        <div className="text-6xl mb-4">🔍</div>
+        <div className="text-6xl mb-4" role="img" aria-hidden="true">🔍</div>
         <h2 className="text-2xl font-bold text-gray-800 mb-2">{content?.ui?.chapterNotFound || 'Chapter Not Found'}</h2>
         <p className="text-gray-600">{content?.ui?.chapterNotFoundMessage || "The chapter you're looking for doesn't exist."}</p>
       </div>
@@ -39,7 +39,7 @@ export default function ChapterView() {
             <span className="inline-block px-3 py-1 bg-primary-100 text-primary-700 text-sm font-medium rounded-full mb-2">
               {content?.ui?.chapter || 'Chapter'} {chapter.number}
             </span>
-            <h1 className="text-3xl font-bold text-gray-900">{chapter.title}</h1>
+            <h1 className="text-2xl md:text-3xl font-bold text-gray-900 break-words">{chapter.title}</h1>
           </div>
         </div>
       </header>
@@ -58,9 +58,13 @@ export default function ChapterView() {
 }
 
 function ChapterNavigation({ currentChapter, chapters, content }) {
+  const { isRTL } = useLanguage()
   const currentIndex = chapters.findIndex(ch => ch.id === currentChapter.id)
   const prevChapter = chapters[currentIndex - 1]
   const nextChapter = chapters[currentIndex + 1]
+
+  const prevArrow = isRTL ? '→' : '←'
+  const nextArrow = isRTL ? '←' : '→'
 
   return (
     <nav className="flex justify-between items-center pt-8 border-t border-gray-200">
@@ -69,8 +73,8 @@ function ChapterNavigation({ currentChapter, chapters, content }) {
           to={`/chapter/${prevChapter.id}`}
           className="flex items-center gap-2 text-primary-600 hover:text-primary-700 transition-colors"
         >
-          <span>←</span>
-          <div className="text-left">
+          <span>{prevArrow}</span>
+          <div className="text-start">
             <span className="text-sm text-gray-500 block">{content?.ui?.previous || 'Previous'}</span>
             <span className="font-medium">{prevChapter.title}</span>
           </div>
@@ -82,13 +86,13 @@ function ChapterNavigation({ currentChapter, chapters, content }) {
       {nextChapter ? (
         <Link
           to={`/chapter/${nextChapter.id}`}
-          className="flex items-center gap-2 text-primary-600 hover:text-primary-700 transition-colors text-right"
+          className="flex items-center gap-2 text-primary-600 hover:text-primary-700 transition-colors text-end"
         >
           <div>
             <span className="text-sm text-gray-500 block">{content?.ui?.next || 'Next'}</span>
             <span className="font-medium">{nextChapter.title}</span>
           </div>
-          <span>→</span>
+          <span>{nextArrow}</span>
         </Link>
       ) : (
         <div />

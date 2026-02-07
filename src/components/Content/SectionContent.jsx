@@ -1,4 +1,15 @@
+import { useRef, useEffect } from 'react'
+
 export default function SectionContent({ section, index }) {
+  const contentRef = useRef(null)
+
+  useEffect(() => {
+    if (!contentRef.current) return
+    contentRef.current.querySelectorAll('img:not([loading])').forEach(img => {
+      img.setAttribute('loading', 'lazy')
+    })
+  }, [section.content])
+
   return (
     <section id={section.id} className="card">
       {section.title && (
@@ -9,8 +20,9 @@ export default function SectionContent({ section, index }) {
           {section.title}
         </h2>
       )}
-      
-      <div 
+
+      <div
+        ref={contentRef}
         className="content-section"
         dangerouslySetInnerHTML={{ __html: section.content }}
       />
